@@ -1,0 +1,2941 @@
+Notetype,NoteTemplate,counts
+Phone Encounter,Phone Encounter,136143
+Progress Note,Immunization Note,109132
+Progress Note,Gen Clinic,58873
+Progress Note,Lab Only,50162
+Progress Note,a CPC Return Patient Note,45651
+Phone Encounter,Phone Encounter2,38303
+Progress Note,TB Skin Test,32916
+Progress Note,WIC Lab,26159
+Admit Note,SCHD A Blank SOAP NOTE,26061
+Progress Note,STD Encounter - Form 2808,24476
+Progress Note,APC - Sick Visit Note,21868
+Progress Note,Follow Up,20311
+Progress Note,Maternal Flow,18801
+Progress Note,Immunization-Flu Note,18508
+Progress Note,TB Skin Test Reading,17707
+Progress Note,COVID Mass Immunization Note,16510
+Progress Note,IM/TST Encounter-HCDPH,14655
+Progress Note,Barton Lab Only,13314
+Progress Note,CVS Office Note,13127
+Progress Note,CH - Primary Care Visit,12983
+Progress Note,Immunization Note NCHD,12580
+Progress Note,MH - 1 Return OB,12579
+General Note,General Nurse Note,12528
+H&P Note,COVID Administration Note,12305
+Admit Note,STD Encounter - Form 2808,11973
+Progress Note,"FP, Limited Visit",10855
+Progress Note,APC - Sick/Physical Visit Note,9524
+Admit Note,Covid Screening,9243
+Progress Note,Immunization Note - HC,8494
+Phone Encounter,COVID-19 Confirmed Follow- Up,8484
+Progress Note,Lab Visit,8413
+Progress Note,IMMUNIZATION NOTE,8250
+Progress Note,TB Skin Test Reading ,8038
+Progress Note,MH - PN Nutrition Assessment,7998
+Progress Note,CH ACUTE CARE Visit.HCDPH,7981
+Progress Note,MH-RETURN PRENATAL.HCDPH,7863
+Progress Note,PPD Skin Test,7684
+Nurse Admin ,Nurse Admin,7666
+Admit Note,ZZZZZZZZSCHD PN Return Visit,7560
+Progress Note,MH Return Note RPM,7504
+Progress Note,Gen STD Exam,7345
+Progress Note,FP Female Flow 2814F,7321
+Phone Encounter,Telephone Encounter,7220
+Progress Note,ZCOVID-19 CURBSIDE NURSE VISIT,7163
+Progress Note,Dr. Glass Note,6989
+H&P Note,PROVIDER NOTE,6604
+FP History ,FP Female HX/INITIAL/ANN,6479
+Phone Encounter,Phone Encounter - WCHD,6429
+Progress Note,Covid-19 Vaccination,6419
+Primary Care,Primary Care Visit,6285
+Progress Note,BCCCP Visit,6270
+H&P Note,Initial Evaluation,6117
+Progress Note,Sick Visit form SCHD,5999
+Progress Note,TB Skin Test Reading. HCDPH,5995
+Progress Note,FP - Contraceptive Supply,5852
+Progress Note,Wilkes Co Visit/Revisit Note,5806
+Progress Note,Maternal Return Note,5740
+Progress Note,Phone Encounter,5708
+Admit Note,RM - HandP,5642
+Progress Note,SCHD Immunization Note,5628
+Progress Note,CD - STD Exam and Tx,5614
+Progress Note,AH- Sick Visit Note,5531
+Progress Note,ASA Patient Progress Note,5525
+Nurses Note,Nurses Note NCHD,5511
+Phone Encounter,Progress Note,5497
+Progress Note,SCHD COVID Vaccine,5359
+Progress Note,STD Visit,5328
+Progress Note,PROGRESS NOTE,5257
+Progress Note,STD Visit.HCDPH,5247
+Speech Language Therapy,SOAP,5125
+Progress Note,ZBF - Problem Visit,5010
+Progress Note,SCHD FP Interperiodic Flow,4959
+Progress Note,SCHD STD Encounter - Form 2808,4955
+Progress Note,FP Follow-Up RPM,4914
+Maternity Visit,DCHD Maternal Flow,4892
+FP Supply or Problem,FP-Supply or Problem,4839
+Admit Note,Follow-up Note,4780
+Progress Note,Imm-TST,4719
+Progress Note,COVID-Testing-Note,4660
+Progress Note,ZZZ- STD - Form 2808,4578
+Progress Note,Lab/Drug screen Only,4562
+Progress Note,ZCOVID Administration Note,4447
+Progress Note,TB Skin Test. HCDPH,4416
+BH Office Visit,BH - COUNSELOR Return,4409
+Progress Note,Narrative Note SCHD,4393
+Progress Note,SCHD TB Skin Test Reading,4388
+Progress Note,Nurse Note,4346
+Admit Note,RM - Progress Note,4340
+Progress Note,zzzSTD Encounter - Form 2808,4338
+Rx to be sent,Medication Refill,4310
+Progress Note,Depo,4278
+Drop In,Immunization Note,4140
+Progress Note,FP - Female Flow 2814F,4127
+Progress Note,AH Primary Care Visit,4120
+Progress Note,BF - Problem Visit,4088
+Progress Note,RCPH FP Female Limited Visit,4084
+Progress Note,Medication Encounter,4067
+Admit Note,TB SKIN TEST,4036
+Progress Note,DLH-ProgressNote,4026
+Maternal,Maternal Flow,3979
+Admit Note,TB SKIN TEST READING,3968
+Progress Note,COVID Administration Note,3964
+Nurses Note,Nurses Note,3937
+Progress Note,FP- Female Physical Form,3909
+STD,STD Encounter - Form 2808,3844
+Progress Note,zSTD Note,3816
+Progress Note,STD Form -DHHS 2808-,3790
+Progress Note,FP Contraceptive Flow Sheet,3775
+Progress Note,COVID-19,3683
+Admit Note,DCHD - PPD Reading Note,3596
+Progress Note,SCHD FP Periodic Female Flow,3541
+Progress Note,OS - TST VISIT,3522
+BCCCP Note,BCCCP-Breast Screening Data,3517
+Progress Note,FP PE 2018.HCDPH,3507
+MH Note,MH Return Note,3497
+Progress Note,"Gen, Pregnancy Test Counseling",3434
+Progress Note,Pregnancy Test RPM,3420
+Progress Note,Pregnancy Test Note,3378
+Progress Note,FP- Female Flow 2814F /HX RPM,3375
+Progress Note,RCPH Immunization Note,3329
+Progress Note,COVID19 Testing Note,3320
+Progress Note,Diabetes Note,3315
+Progress Note,OS - TST Read,3308
+Progress Note,FP Limited Visit Flow - DCHD,3306
+STD Visit,STD- LCHD,3278
+Progress Note,Z COVID VACCINE NOTE OLD,3276
+Social Work,SOCIAL WORK  FOLLOW UP NOTE,3252
+Progress Note,MH-Follow Up Visit Note,3243
+Maternity Visit,MH - Maternity Return,3217
+Progress Note,MH- Maternal Flow,3194
+Progress Note,AH  Complaint/ Follow Up,3169
+Progress Note,RCPH FP Female Flow 2814F,3154
+Progress Note,ACUTE CARE VISIT.HCDPH,3106
+Progress Note,OAS - Immunization Note,3064
+Progress Note,APC - Immunization Only,2997
+Progress Note,BF-Well Child 5-6yrs.,2926
+Progress Note,CO - COVID-19 Spec Collection,2904
+Progress Note,TB Drug Record,2850
+Progress Note,COVID VACCINE NOTE,2836
+Progress Note,AH - Problem Visit Note,2831
+TB,TST Read,2824
+Progress Note,Nurse's Note,2824
+Progress Note,Immunization-School,2806
+Progress Note,Flu Vaccine Questionnaire,2777
+Family Planning,FP - Method/Problem Visit,2766
+H&P Note,Surgeon History and Physical,2737
+Progress Note,Lab Results,2734
+Progress Note,Immunization Note - Child,2733
+Progress Note,Limited Visit Note SCHD,2712
+Progress Note,SCHD Nurses Note,2711
+Progress Note,FP General Nurse Visit,2703
+Telehealth,Telehealth,2690
+Progress Note,ID SW CLINIC,2638
+Progress Note,FP Female PE Sheet w history,2635
+Admit Note,COVID Results,2629
+Admit Note,CP - HandP,2590
+Progress Note,New Maternity,2580
+FP History ,RCPH FP 4060F Female Health HX,2570
+Progress Note,Flu,2567
+Progress Note,COVID-19 Testing,2564
+FP Female Flow,FP-Female Annual,2556
+Progress Note,Immunization Note - Adult,2551
+Progress Note,BCCCP-Breast Screening Data,2550
+Maternal Flow,MH - Maternal Flow,2547
+Progress Note,MEDICATION ENCOUNTER,2538
+TB,TST Administration,2512
+Progress Note,FP-Female Flow/Green Sheet,2485
+Progress Note,Nurse Note Miscellaneous,2476
+Progress Note,LAB ONLY,2457
+Progress Note,TB Flow Sheet,2317
+Progress Note,CO - C-19 Mod Vaccine-1ST Dose,2289
+Progress Note,Adult Health,2277
+Progress Note,Immunization,2245
+Progress Note,SCHD Lab Only,2244
+Admit Note,SCHD TB Skin Test,2196
+Progress Note,FP SUPPLY-PROBLEM,2185
+Progress Note,Testosterone Injection,2172
+Progress Note,Flu - Pneumonia Note,2164
+Progress Note,SCHD TB Risk  Assessment,2158
+Progress Note,FP Limited Method Supply,2137
+Progress Note,FP/OB Pregnancy Test/Counsel,2121
+Progress Note,"FP - Problem,F/U, Supply Visit",2088
+FP Annual PP,FP Annual / PP Visit- LCHD,2080
+Progress Note,PC - MAT,2074
+Progress Note,TB Skin Test Reading- CCHD,2061
+Progress Note,Pill/Nuvaring/Ortho E Pickup,2042
+Phone Encounter,RCPH Phone Encounter,1990
+Progress Note,PREGNANCY TEST VISIT,1985
+Progress Note,Primary Care Note,1970
+Lab Only,Lab/Procedure Only- LCHD,1967
+Progress Note,FP - Pregnancy Test 4140,1962
+Progress Note,TB Skin Test- CCHD,1945
+Immunization,Immunization Note- LCHD,1888
+Progress Note,Maternal Physical Examination,1875
+Progress Note,MH New OB Interview RPM,1859
+Admit Note,Covid Vaccine Admin Note,1858
+Progress Note,PC - Est Adult Office Visit,1853
+Progress Note,FP Female HX and Flow Sheet,1844
+Progress Note,DCHD - TB Risk Questionnaire,1832
+Progress Note,FP- Method/Follow up visit,1828
+Progress Note,Nurses Note,1822
+Admin Note,ADMIN NOTE,1821
+Progress Note,Gen STD treatment,1816
+Primary Care,LPC- Return Visit- LCHD,1813
+Progress Note,ID Clinic,1811
+Consultation Report,Consultation Note 1,1810
+Progress Note,CC - Starter Note,1807
+Progress Note,GenClinicPregnancy Test 4140,1797
+Progress Note,MEDICATION-PILL/DEPO ENCOUNTER,1791
+Progress Note,FP Female Flow 2814F SCHD,1784
+Progress Note,STD Treatment Record,1778
+Progress Note,PRESCRIPTION PICK UP,1774
+Progress Note,zCOVID Administration Note,1733
+Progress Note,BF-Well Child 11-14yrs,1722
+Maternity Visit,MH - 1 Return OB,1703
+Progress Note,Easy Soap,1699
+Progress Note,SCHD FP Limited Visit,1692
+Progress Note,ULTRASOUND NOTE,1687
+Progress Note,CH PROBLEM/SICK NOTE-NEW,1671
+Progress Note,APC-Well Women Exam,1670
+Admit Note,FP FEMALE FLOW 2814F-NEW,1658
+Progress Note,Depo Provera Nurse Visit.HCDPH,1653
+Progress Note,MH-MATERNITY NOTE,1637
+Progress Note,BF-Well Child 7-8yrs.,1637
+Progress Note,FP Female Physical Exam,1618
+Progress Note,Med. Management Template,1608
+Progress Note,NEW STD Encounter - Form 2808,1593
+Progress Note,TST Administration Record,1563
+Progress Note,MH-MISSED OB APPT,1560
+Progress Note,Maternal New Admission,1552
+Progress Note,BF-Well Child 9-10yrs.,1538
+Admit Note,CP - Progress Note,1504
+BCCCP,BCCCP-Breast Screening Data,1500
+Method Visit,FP-Method Visit-Return,1482
+Progress Note,z-MH Return/Flow Note,1479
+Progress Note,SCHD Lab Results,1460
+Progress Note,Supply Visit,1460
+Progress Note,General Nurse Note,1453
+Progress Note,STD ENCOUNTER - FORM 2808,1438
+Progress Note,TST Result Record,1429
+H&P Note,Initial Breast Visit,1429
+Consultation Report,CP - HandP,1412
+Progress Note,FP Limited Visit,1411
+BH Office Visit,BH CCA 1 Nurse,1383
+Progress Note,TB - PPD Read,1381
+Injection Record,Injection Visit,1378
+Progress Note,RCPH STD Encounter - Form 2808,1369
+AWV,AWV visit w/Health Coach,1356
+Progress Note,BF-Well Child 4yrs.,1326
+Progress Note,Abnormal Pap Test Follow Up,1323
+Progress Note,SCHD Pregnancy Test Flow,1319
+Progress Note,STD Encounter SCHD,1299
+Progress Note,FP - Depo Injection - WCHD,1292
+Progress Note,TB - PPD Placement,1281
+Progress Note,TB - PPD reading,1272
+FP History ,FP 4060F - Female Health Hx,1269
+Progress Note,CH Visit,1262
+Admit Note,STD Encounter - Form 2808 NCHD,1255
+Progress Note,TB - PPD skin test only,1247
+Progress Note,NBPP - Postpartum Home Visit,1243
+Admit Note,a CPC New Patient,1242
+FP History ,FP - 4060F - Female Health Hx,1229
+Progress Note,FP Female-Green sheet,1227
+Progress Note,NBPP - Newborn Home Visit,1226
+Phone Encounter,Test Results,1224
+Progress Note,Hearing Evalution,1220
+Progress Note,Wilkes Co AH Annual PE,1209
+Admit Note,Wellnes Program Follow Up,1207
+Progress Note,AH - Physical Visit Note,1189
+Drop In,Drop In,1184
+Progress Note,BF -  Well Child 11-14yrs,1183
+Progress Note,Pregnancy Testing,1177
+Progress Note,FP - Annual Exam -WCHD,1172
+Progress Note,MH - Recheck Visit,1170
+Progress Note,Phone Encounter2,1168
+Progress Note,Immunization Flu/Pneum Note,1165
+Progress Note,Pregnancy Test Form 2,1163
+Progress Note,BF Problem Visit,1162
+Progress Note,MH-Maternal Health Labs,1156
+Family Planning,Depo Visit,1150
+Admit Note,Standing Order COVID-19 Test,1148
+Progress Note,Maternal Health Education,1148
+FP FLOW SHEET,FP Female Flow 2814F NCHD,1143
+Progress Note,CH Sick Visit/Problem Note,1126
+Progress Note,CP - Progress Note,1118
+Phone Encounter,Phone Encounter NCHD,1106
+Family Planning,z-FP Annual - Female,1099
+Progress Note,FLU Administration Note,1091
+BCCCP Note,BCCCP Visit,1074
+Progress Note,TB Skin Test Reading SCHD,1071
+Admit Note,Flu and Pneumonia Immunization,1069
+Lab Note,Lab/Radiology Review Note,1068
+Progress Note,PC - Est Pedi Office Visit,1065
+Family Planning,FP-Female Annual Revised,1059
+FP History ,FP Female,1058
+Progress Note,CO - COVID-19 Rapid Test,1057
+Admit Note,RM - Procedure Note,1056
+Admit Note,Covid Vaccine,1056
+Progress Note,CO - C-19 Pfz Vaccine-1ST DOSE,1055
+Progress Note,Hearing Aid Check,1054
+Progress Note,CHPE 11-17 Years,1052
+Progress Note,zzFP Female Initial/Ann Note,1052
+Progress Note,TB Medication,1044
+Progress Note,Misc.Note,1041
+Progress Note,FP Reproductive Health Female,1039
+Phone Encounter,COVID Results,1036
+Progress Note,MH-OB REFERRAL,1033
+Progress Note,BF-Well Child 3 years,1027
+Progress Note,BF-Well Child 2 years,1011
+Progress Note,Depo Provera Contraceptive-HC,1008
+MH Note,MH Initial Physical Exam,998
+Progress Note,SOAP,991
+Progress Note,ID Clinic Monthly Visit,976
+Progress Note,FLU Vaccination Note,970
+FP Eval,FP Evaluation Visit- LCHD,969
+Admit Note,ID Lab,968
+Progress Note,Maternal Return Note-WCHD,968
+Progress Note,MH -New OB Interview,965
+Admit Note,FP FAMILY PLANNING PROBLEM,964
+Progress Note,Medication Refill,964
+Progress Note,CO - C-19 Pfz Vaccine-2ND DOSE,959
+Admit Note,General Nurse Note,952
+Progress Note,MH Initial Visit HxPE.HCDPH,944
+Progress Note,TB Monthly Assessment.HCDPH,943
+Letters,Letter to Referring Provider,943
+Progress Note,FP Female Flow 2814Fnew,941
+Progress Note,STI Form 2808,936
+Progress Note,Home Visit,933
+Progress Note,BF-Well Child 12 Months,933
+TB DOT,TB DOT Clinic/In-home LCHD,925
+Progress Note,SCHD Pregnancy Assessment Form,922
+BCCCP,BCCCP Visit,919
+Admit Note,APC-Specialty PE,917
+Progress Note,Peds Problem Visit,904
+Progress Note,PC Comprehensive Note,899
+Progress Note,Nutritional Counseling MNT,899
+Progress Note,ZBF Well Child 11 to 14 Yrs,893
+Progress Note,Progress Note,893
+Progress Note,MH Maternal Return Note SCHD,889
+Progress Note,WASH - Flu Note,887
+H&P Note,a CPC New Patient,877
+Progress Note,BH Follow Up Visit,877
+Progress Note,FP History/Annual Exam,875
+Progress Note,MH Initial Physical Exam RPM,873
+Progress Note,Psychotherapy Note,867
+Progress Note,ZBF Well Child 15-21 yrs NEW,864
+Progress Note,AH - General Nurse Visit,855
+Progress Note,FP-Pregnancy Test,854
+Progress Note,AH/CH Labs SCHD,851
+Admit Note,ZZZZZZZZSCHD New PN Visit,851
+Progress Note,Ped Primary Clinic Note,850
+BCCCP,BCCCP-Cervical Screen Data,843
+Progress Note,Barton PC Init./FU/Sick Note,843
+Progress Note,TB Flow Sheet ,843
+Progress Note,APC-Well Male Exam,839
+Consultation Report,HCM - HandP,839
+Progress Note,Immunization Visit,835
+Progress Note,TB Skin Test SCHD,834
+Progress Note,FP Annual Visit,830
+Progress Note,FP-Revisit Depo or BCP Refill,826
+Progress Note,FP Female Exam,824
+MH Exam,MH Return Note NCHD,824
+Progress Note,BF-Well Child 18 Months,823
+Admit Note,STD TREATMENT ONLY,822
+VLab Report ,Carotid Duplex,814
+Progress Note,Allergy Shots,811
+Phone Encounter,Refill Request,811
+FP History ,Z-FP 4060F - Female Health Hx,806
+Progress Note,zz NBPP-Home Visit - Postnatal,804
+Progress Note,CP - Procedure Note,803
+FP History ,Z FP 4060M Female Health HX,803
+Progress Note,ZZ - NBPP-Home Visit - Newborn,802
+Progress Note,FP Supply VIsit,799
+Progress Note,Lab Screening Only,797
+Progress Note,FP Problem Note,797
+Progress Note,ID Clinic Lab,797
+Progress Note,CH Problem Visit,789
+Progress Note,CH SICK VISIT,787
+Progress Note,FP Limited Flow Sheet,786
+H&P Note,MAT Note,779
+Progress Note,MUSIC THERAPY,772
+Progress Note,PCM Note,770
+Progress Note,ID Social Worker Assessment,770
+Progress Note,BCCCP Data,763
+Progress Note,Lab Only NCHD,761
+Progress Note,Chronic Pain follow up,757
+Progress Note,COVID Nurse Evaluation,751
+Progress Note,STD Physical Form - WCHD,750
+Progress Note,Immunization Note SCHD,749
+BCCCP Note,BCCCP-Cervical Screen Data,747
+BH Office Visit,BH-CCA1-COUNSELOR,745
+Progress Note,BF - Well Child 002 to 05 Days,744
+Phone Encounter,Behavioral Health Note,740
+Progress Note,Lice Check,739
+Progress Note,Z TB Skin Test,731
+FP Contraception,FP Contraceptive Visit- LCHD,726
+Phone Encounter,Hospital f/u Call,724
+Child Health,BF-Well Child 11-14yrs,722
+MH Note,MH Pregnancy Test,719
+Progress Note,TB DOT,714
+Adult Sick,Adult Sick/Physical Visit NCHD,710
+Progress Note,BCCCP-Cervical Screen Data,701
+Progress Note,STD Treatment,701
+Progress Note,Foreign Travel HCDPH,693
+MH Intake,New Maternity Intake - RN Only,690
+Progress Note,COVID-19 Testing Clinic,689
+Admit Note,New Patient,688
+Progress Note,"MNT, Pregnant or PP Note",688
+Admit Note,Drug Screening,686
+Progress Note,Flu/Pneumonia Clinic,676
+Progress Note,AH-Basic History,675
+Admin Note,BCCCP-Breast/Cervical Data,674
+Progress Note,PC  - New Pedi Office Visit,674
+Progress Note,CO - C-19 Mod Vaccine-2ND Dose,672
+MH Return Visit,MH Return Visit Note- LCHD,672
+CCM,CCM Note Patient Call,670
+Immunizations,CCHD Immunization Note,669
+Progress Note,BF - Well Child 02 Month,669
+Progress Note,BCCCP Visit. HCDPH,668
+Admit Note,PNR-Provider,666
+Progress Note,CHPE 7-10 years,666
+Child Health,BF-Well Child 5-6 years,661
+Progress Note,Jessica Follow-up Note Raleigh,657
+Progress Note,FP Limited Provider Note,657
+Progress Note,"MNT, Adult, follow-up",656
+Progress Note,BF Well Child 15-21yrs.,650
+Progress Note,Influenza Vaccine Form SCHD,649
+Progress Note,Maternal Initial Physical Exam,649
+Progress Note,FP Limited Visit SCHD,649
+Progress Note,ZBF WCC 5 to 6 Years old-NEW,647
+Progress Note,Adult Physical Note SCHD,646
+FP History ,FP 4060F-Female Health Hx,644
+Admit Note,FP Depo/Supply Visit,644
+Progress Note,FP Female Initial,641
+Maternal,Maternal Initial-Nurse Only,640
+Child Health,BF Well Child 15-21 yrs,637
+Case Management,Care Management,637
+Progress Note,OAS - Pregnancy Test Note,636
+Admit Note,SCHD BF Well Child PE,634
+Progress Note,Immunization Note - WCHD,633
+Progress Note,BF - Well Child  15-21yrs.,632
+Progress Note,Jessica Suboxone f/u- Raleigh,630
+Progress Note,BF - Well Child 01 Month,629
+Progress Note,ET-Expanded testing,623
+Admit Note,PC Comprehensive Note,620
+Progress Note,ZZZAPC- Follow up/Sick Visit ,617
+Therapeutic Injection Record,Therapeutic Injection Record,617
+Progress Note,BF-Well Child 15 Months,615
+Maternity Visit,zMH - New Maternity Visit,613
+MH Intake,ACOG- New Maternity,609
+Daily Treatment Note,'23 SHC Comb'd Proc Trmt,607
+Progress Note,Labs Only,607
+Progress Note,BF - Well Child 06 Months,602
+Phone Encounter,CD - STD Test Results -HBsAb,602
+Progress Note,Nexplanon Insertion,601
+Initial Evaluation,Neuropsych Eval,601
+Progress Note,DCHD GENERAL NURSE NOTE,601
+Admit Note,HCM - HandP,598
+Progress Note,Hep C Follow-Up,596
+Progress Note,Breast Screening Follow Up,593
+Progress Note,BCCCP Breast Cancer,592
+Progress Note,Makena/Rhogam Note,591
+Progress Note,BF - Well Child 04 Months,585
+Maternity Visit,MH - New OB History,581
+Progress Note,TB Screening Form,578
+Diagnostic Test,Diagnostic Test,577
+Progress Note,Pap Follow-up,575
+Progress Note,Nexplanon Removal,573
+Progress Note,Well Woman w/o Pap,571
+Progress Note,IUD Insertion,571
+Progress Note,FP Problem/ Express Visit,570
+Progress Note,ZBF-Well Child 11-14yrs,567
+Progress Note,Well Man,566
+Progress Note,Nurse Triage,565
+Progress Note,Flu Shot Only,559
+Progress Note,AH CDL/School/Job Physical,556
+TB Test Reading,TB Skin Test Reading- LCHD,555
+Progress Note,COVID Vaccine Only,554
+Progress Note,FP Pregnancy Test Care,554
+Progress Note,CHPE 5-6 Years,553
+Adult Health ,AH/BCCCP Annual,553
+Admit Note,COVID Mass Immunization Note,552
+Progress Note,Hearing Aid Consult / Purchase,551
+Progress Note,Diabetes 2,547
+Progress Note,COVID Evaluation,547
+MH Note,MH Sick Note,546
+Progress Note,Limited Physical SCHD,545
+Progress Note,MH New Maternity/Nurse,536
+Progress Note,ZBF-Well Child 5-6yrs.,534
+Progress Note,EIC Note Sheet,532
+Progress Note,SCHD TB Flow Sheet,531
+Progress Note,Flu and PPD,530
+Progress Note,BF - Well Child 09 Months,525
+Surgery Note,DLH-Procedure,523
+Progress Note,TB Skin Test Visit,523
+Progress Note,BH - Tele Nurse Note,521
+Admit Note,Covid-19 Testing Form,515
+Progress Note,BCCCP-Breast Screening Data 23,514
+Progress Note,FP Problem/ Supply Visit,508
+Progress Note,MH-Maternal Initial PE,508
+Phone Encounter,Phone Encounter Dr.Hamad,507
+Primary Care,LPC- Initial Visit- LCHD,504
+Maternal,Maternal Inital-Provider only,504
+Progress Note,CH - Well Child 11-14yrs,501
+H&P Note,MH - 2 New OB,500
+Progress Note,Psych- Therapy Note,497
+Progress Note,TB Work Form,497
+Progress Note,STD Treatment Only Visit,496
+Progress Note,COVID-19 Vaccine Note,493
+Admit Note,Immunization,488
+Progress Note,SCHD Medication Encounter,488
+Progress Note,TB FLOW SHEET,486
+Progress Note,MH New Maternity - HC,485
+Progress Note,Z-FP Female Flow 2814F,478
+Progress Note,CH Problem Visit WCHD,477
+TB Test,TB Skin Test Placement- LCHD,477
+Phone Encounter,CD - STD Test Results,476
+Admit Note,Blank Note,476
+ST Eval,CCHD STD Encounter - Form 2808,473
+Progress Note,Referral Follow-Up,470
+Progress Note,Animal Bite Follow-up SCHD,464
+Progress Note,TB Skin Test Reading Visit,464
+Progress Note,TB Epi Record Part 1.HCDPH,457
+Progress Note,FP-Pregnancy Test 4140,454
+Progress Note,CH-Well Child 5-6yrs.,454
+Admit Note,FP-Revisit Depo or BCP Refill,453
+Maternity Initial Visit,MH - Initial Visit,452
+Progress Note,Controlled Substance Visit,451
+Progress Note,STI Screening Note,450
+Progress Note,FP - IUD Insertion Flow Sheet,448
+Progress Note,PC - New Adult Office Visit,447
+Progress Note,PP Homevisit Note,444
+Progress Note,BF Well Child 15-21 Years,440
+MD Progress,FN Outpatient Dr.Carlton,439
+Progress Note,Preg Test 4140,438
+MH Note,Behavioral Health Note,436
+Admit Note,SCHD PNR-Provider,434
+Progress Note,Pregnancy Test Form,433
+FP History ,FP SCHD Female Health Hx,432
+Progress Note,Colposcopy Note,431
+Progress Note,STI Treatment Short Note,431
+Progress Note,CHPE 18 MO - 2 1/2 YRS,430
+Progress Note,BF Well Child 11-14 Years,429
+Progress Note,Z FP Female PE HCDPH,426
+CCM,CCM PHARM,426
+Progress Note,Home Visit - Newborn,425
+Progress Note,z-Pregnancy Test Note,423
+Progress Note,MH-NST ONLY.HCDPH,420
+Progress Note,Nurse visit,417
+Progress Note,TB Skin Test - WCHD,416
+Pregnancy Test,Pregnancy Test- LCHD,416
+FP History ,FP Female History Form,413
+Progress Note,MH-OB RECORDS,413
+Progress Note,"MNT, Adult, Initial",413
+FP History ,z-FP 4060F - Female Health Hx,413
+Progress Note,TB MED Flow Sheet,412
+MH Intake,ACOG Return Maternity Visit,412
+MH Intake,MH New History,410
+Surgery Note,HCM Procedure Note,410
+Progress Note,BCCCP PE,409
+Progress Note,"MNT, Peds F/u",409
+Phone Encounter,CD - Blank,404
+Progress Note,TB Skin Test  NCHD,404
+Progress Note,CHPE 1 Month,401
+Surgery Note,CP - Procedure Note,399
+Progress Note,TB Epi Record Pt1,395
+Admit Note,zzAdult Care Clinic,395
+Admit Note,APC-WELL WOMAN EXAM,394
+Progress Note,MH New Maternity Provider,391
+STD Treatment,STD Treatment- LCHD,388
+Progress Note,zzzCH-Well Child 11-14yrs,387
+Progress Note,MH-Return OB Maternal Flow,387
+Progress Note,CHPE 2 Months,385
+Progress Note,TB Epi Record,384
+Progress Note,ZBF-Well Child 4 year NEW,384
+Progress Note,FP limited/method/Problem visi,383
+Progress Note,Home Visit - Postnatal,383
+Progress Note,AH Pap-Breast Exam,381
+Admit Note,HCM Progress Note,380
+Progress Note,FP- Female History-Flow 2814F,380
+BCCCP Note,Adult Health,377
+Progress Note,LCSW Note,371
+Progress Note,New Prenatal,371
+Progress Note,FP Education,369
+Progress Note,BCCCP Breast Cancer 2019,366
+Progress Note,Follow-up Note,364
+CH Well Child Check,CCHD CH Well Child Check,364
+Progress Note,TB Skin Test Reading - WCHD,360
+Progress Note,COVID Vaccine,358
+Progress Note,IUD Check,356
+Progress Note,Lab Only - WCHD,356
+Progress Note,MH-PP F/U Note,354
+Progress Note,HCM - HandP,354
+Admit Note,FP PREGNANCY TEST 4140,351
+MH Intake,ACOG Maternity,350
+Progress Note,TB Skin Test Reading NCHD,350
+Progress Note,ZSCHD Pregnany Assessment Form,350
+Progress Note,AH follow-up,348
+Progress Note,FP - Colpo Form,348
+Progress Note,ZBF-Well Child 7-8yrs.,347
+Progress Note,ZBF Well Child 7-8 yrs NEW,345
+H&P Note,APC - Sick/Physical Visit Note,344
+Progress Note,AH  Physical-yellow,344
+Progress Note,SCHD AH Visit Form,341
+Progress Note,HCM Progress Note,340
+Progress Note,BCCCP Follow-up Visit,338
+Progress Note,Hospital Follow Up,337
+Progress Note,TB Epi Record Part 2.HCDPH,336
+Progress Note,AH - Well Woman Exam,334
+Progress Note,Nursing Note,333
+Child Health,BF-Well Child 4yrs.,330
+Progress Note,BF - Well Child 11-14 Year NEW,330
+Admit Note,CO - C-19 Pfz Vaccine-3RD Dose,330
+Progress Note,CHPE 18-21 Years,327
+Progress Note,CH - Well Child 15-21yrs,326
+Progress Note,CHPE 4 Months,325
+BP Check,BP Check,324
+Progress Note,CHPE 6 months,323
+Progress Note,WH - Treatment Note - STD,323
+MH History,MH History- LCHD,323
+Progress Note,County FLU Immunization,323
+Progress Note,MNT Referral Form,322
+Progress Note,MH Initial Physical Exam,321
+Progress Note,ZBF-Well Child 15-21yrs.,321
+Admit Note,WOMENS HEALTH PHYSICAL,321
+Progress Note,BF - WCC 11-14yr Visit,319
+Progress Note,BP Check-Nurse only,317
+Admit Note,Wise Data Entry,315
+Progress Note,Family Planning Physical,313
+Progress Note,TB Medication Orders,313
+Progress Note,Foreign Travel Worksheet - HC,313
+Progress Note,zzzCH-Well Child 5-6yrs.,312
+Progress Note,ZBF-Well Child 9-10yrs.,312
+Progress Note,FP - IUD 4 Week Recheck Note,311
+Progress Note,BF-Well Child 5-6yrs RPM,310
+Progress Note,BF-Well Child 6 Months,309
+BCCCP,BCCCP Assessment and Care Plan,305
+Progress Note,ZBF Well Child 9 to 10 Yrs NEW,303
+Progress Note,BF - Well Child 15-17 Year NEW,302
+Progress Note,zzzCH- Well Child 15-21yrs,300
+Progress Note,CD - HIV/Hep C testing,294
+Progress Note,ZBF Well Child 3 years NEW,293
+Progress Note,CHPE 4 Years,292
+Progress Note,BF-Well Child 4 Months,292
+Progress Note,MH-OB Lab Flow for AGOG Report,291
+Progress Note,"MNT, Initial Pediatric",291
+Progress Note,BF-Well Child 9 Months,289
+Referral,Referral Form,288
+Progress Note,Barton Immunization Note,288
+Progress Note,SCHD TB Screening,288
+Progress Note,Psych-Assessment Note,287
+Progress Note,ZZZFP  2814F female flow sheet,286
+Progress Note,Child Health Exam,285
+Progress Note,CHPE 3 Years,281
+Prenatal Care Plan,MH-Prenatal Care Plan,281
+Progress Note,FP - Problem/Follow Up - WCHD,281
+Documentation Consent From,MH - 6 BTL Soap Note,279
+Progress Note,CHPE 9 months,277
+Progress Note,MH - Postpartum Followup Visit,277
+Progress Note,FP Female Flow 2814F Rev 0517,277
+H&P Note,Immunization Note,274
+VLab Report ,Aorta Duplex,273
+Progress Note,MH - New OB Exam,273
+Progress Note,Z-FP Female Hlth Hx/PE 2016,273
+Progress Note,FP - Nexplanon Insertion,272
+Procedure Note,Pill Count,272
+Progress Note,FP IUD/Implant  Visit,271
+Progress Note,New Patient,271
+Progress Note,Medicaid Care Management Comm.,270
+Progress Note,SCHD BCCCP/WW Visit,270
+Progress Note,CH Follow-up,269
+Clinic ,APC-Well Women Exam,268
+Admit Note,WOMEN'S HEALTH PROBLEM,268
+Progress Note,DCHD STD VISIT,267
+Progress Note,PCM note for Cure MD,267
+Progress Note,CH-Well Child 7-8yrs.,266
+Progress Note,Cough,263
+Progress Note,ASTHMA PROGRAM-NATALIE WIGGINS,262
+Family Planning,Pill Pick Up Visit,262
+Progress Note,FP Annual/New Exam,260
+Mat Health Education,Maternal Health Education,260
+Progress Note,CD - TB Monthly Flow Sheet,259
+Progress Note,AH Colposcopy/LEEP,258
+Admin Note,Nurse Triage,255
+Admit Note,STD Template,252
+Admit Note,ZZZBCCCP/WW Data,251
+FP History ,ZZZFP 4060F - Female Health Hx,251
+Progress Note,CO - C-19 Mod Vaccine Bivalent,251
+Progress Note,BH Initial Assessment,251
+Nexplanon,FP Nexplanon Placement- LCHD,250
+Progress Note,Drug Screen,250
+Progress Note,TB Screening Form ,249
+General Note,Barton General Nurse Note,249
+Admit Note,CH-Sports Physical,249
+Admit Note,AH Flow Sheet,248
+Progress Note,Sports/Work Physical,248
+Progress Note,IUD Removal,248
+Progress Note,ZBF Well Child 2 to 5 Days,248
+Progress Note,BCCCP Physical Exam,248
+Progress Note,STD - Encounter Form - Revised,247
+Child Health,BF-Well Child 7-8yrs.,247
+Progress Note,ZBF-Well Child 2 Month -NEW,247
+Progress Note,CH-Well Child 4yrs.,247
+Progress Note,CC - Hospital Visit,247
+Progress Note,BCCCP State Follow-Up,246
+Progress Note,FP.IUD Insertion.HCDPH,246
+History,CH - Initial History,246
+Admit Note,Out Patient Lab Note,246
+Admit Note,DCHD - Record of TB Screening ,245
+Progress Note,ZBF 12 Month Visit -NEW,245
+Progress Note,CHPE 12 Months,244
+Progress Note,APC-WELL WOMAN EXAM,241
+Child Health,BF-Well Child 9-10yrs.,240
+Progress Note,Outreach - Hepatitis/HIV/RPR,239
+Progress Note,Consultation Note 1,238
+FP History ,FP 4060F Female Health Hx NCHD,237
+FP History ,FP,235
+Progress Note,CH-Well Child 9-10yrs.,235
+Progress Note,BCCCP  P4 Breast Cancer,234
+Newborn Home Visit,Home Visit - Newborn,234
+Progress Note,Lice Assessment and Treatment,234
+Admit Note,BCCCP Eligibility/Consent Form,232
+History,CH Initial History-NEW,230
+FP History ,ZZZ - FP - Female Hx - 4060F,229
+Postpartum Home Visit,Home Visit - Postnatal,227
+Progress Note,FP - IUD Removal,227
+Progress Note,FP Female Problem Visit,226
+Progress Note,TB Nurse Note,224
+Progress Note,ZBF Well Child 6 months NEW,224
+BCCCP Note,BCCCP VISIT,224
+Progress Note,ZBF-Well Child 4yrs.,223
+Progress Note,BF Well Child 7-8 Year,223
+Progress Note,Medical Nutrition Therapy,223
+Progress Note,Hypertension,222
+VLab Report ,ABI,222
+Progress Note,ZBF Well Child 2 years NEW,220
+Progress Note,Weight Re-Check,220
+Admit Note,ST-Treatment,220
+Progress Note,SCHD TB Screening Form,218
+Progress Note,TST RESULTS NOTE,218
+NonPhysician Visit,Non-Physician Visit,217
+Progress Note,Child Sick/recheck Visit NCHD,214
+Progress Note,Titers,213
+BCCCP,Nurses Note,208
+Progress Note,ZBF Well Child 4 Month- New,208
+Child Health,BF-Well Child 3 years,207
+General Note,WASH - Refill Request Note,207
+Consultation Report,Telemedicine,205
+Progress Note,WiseWoman,205
+Speech Assessment,SLP Assessment - General,204
+MH Intake,ACOG MH Intake,204
+Encounter Note,LCHD Immunization Note,204
+Admit Note,Family Planning Treatment Note,202
+Progress Note,BF - Well Child 2 Month,201
+H&P Note,Sick Visit,201
+Progress Note,SCHD Home Visit - Postnatal,200
+Progress Note,CD - TB Epi Record,200
+Progress Note,WW Health Coaching Note 2019,199
+Progress Note,AH-Annual Exam - WCHD,199
+Child Health,BF-Well Child 2 years,199
+Progress Note,BF Well Child 9-10 Year,197
+Progress Note,Hepatitis C Initial Visit,196
+Progress Note,TytoCare Primary Care Note,196
+Progress Note,SCHD Home Visit - Newborn,195
+Progress Note,ZBF 9 Month Visit -NEW,195
+Progress Note,Pill Pick Up,195
+Progress Note,STI Treatment Only,194
+Progress Note,AH-Well Male Exam,194
+Admit Note,Injection note,193
+Progress Note,TB Flow Sheet- CCHD,193
+Progress Note,FP - Pregnancy Test - WCHD,193
+Progress Note,BF Well Child 15-21yrs,191
+Progress Note,TB Medications,191
+ST Eval,STD Encounter - Form 2808,189
+Progress Note,z-MH New Admission Parts A-D,189
+Progress Note,SCHD CH BF  Problem Visit Form,188
+Progress Note,Back Pain,188
+Colposcopy,Colposcopy,188
+Progress Note,MNT Nutrition Assessment ,187
+Progress Note,CH-Well Child 2 years,187
+Phone Encounter,Care Gap,187
+Progress Note,TB Record of Screening,187
+Progress Note,ZBF 1 Month Visit - NEW,187
+FP Supply or Problem,FP Problem Visit,187
+Progress Note,CH-Well Child 3 years,186
+Progress Note,LAB RESULTS,185
+Admit Note,NewPN-Nurse,185
+Progress Note,SCHD IUD Check,184
+Progress Note,General Clinic misc,183
+Progress Note,CC - Progress Note,183
+H&P Note,Maternal Flow,182
+Progress Note,TB General Visit,182
+Pregnancy Test Form,CCHD FP-Pregnancy Test 4140,182
+Admit Note,APC-WELL MALE EXAM-NEW,182
+Progress Note,MH Flow Note - HC,182
+Admin Note,CD Admin Note,182
+Triage Note,Telephone Triage,182
+Progress Note,BCCCP Breast Cancer 2018,181
+MH Intake,MH-GDM -NURSE.HCDPH,180
+Initial Evaluation,Psych Eval Dr. Darcy Alexander,180
+VLab Report ,Aorta Duplex EVAR,180
+Admit Note,POSTPARTUM VISIT,179
+Progress Note,ZBF-Well Child 2 years,179
+Admit Note,AH-Pregnancy Test Form,178
+Progress Note,CHPE 15 Months,178
+Progress Note,ZBF Well Child 18 months NEW,178
+Progress Note,ZBF-Well Child 3 years,178
+Progress Note,Maternity-Return Prenatal,176
+TB EPI RECORD,TB Epi Record,176
+Progress Note,BF-Well Child 11-14yrs -WCHD,176
+H&P Note,PPD,175
+Progress Note,Annual Wellness Exam,174
+Admit Note,CO-C-19 Pfizer Vacc. Bivalent,173
+Admit Note,HCM Procedure Note,172
+Admit Note,NewPN-Provider,172
+VLab Report ,Bilat Lwr Extrm Arterial Duplx,171
+Progress Note,WASH - Nurse Visit Note,170
+Progress Note,BCCCP Cervical Cancer 2019,169
+Progress Note,MedSouth,169
+MH Intake,ACOG- New Maternity SCHD,169
+Nexplanon,FP Nexplanon Removal- LCHD,169
+Lab Results,Test Results- LCHD,169
+Intake Note,Psych- Intake Note,168
+Progress Note,Z PREGNANCY TEST VISIT. HCDPH,168
+Progress Note,CH-Well Child 12 Months,167
+Progress Note,DCHD FP LIMITED/METHOD/PROBLEM,167
+MH  Education,MH - Maternal Health Education,166
+Progress Note,"zzGen, TB, PPD Qs/Admin",166
+Progress Note,BF-Well Child 11-14 yrs RPM,165
+H&P Note,FLU Administration Note,165
+Admit Note,CDL Physical,165
+Progress Note,z-MH Initial Provider PE.HCDPH,165
+Nerve Conduction Study,EMG - UE,163
+Progress Note,Health Risk Assessment - WCHD,163
+Child Health,BF-Well Child 12 Months,162
+Admit Note,TB Epi Record,162
+Progress Note,ZBF - WCC 6 Month,162
+Phone Encounter,LCHD Phone Encounter,161
+Nurse Progress Note,Immunization Note,161
+Progress Note,BF - WCC 15-17yr Visit,160
+Psychology,PPN OutPatient Dr. Alexander,160
+MH LABS,MH LAB DATA NCHD,159
+Progress Note,TB Risk Assessment,159
+Progress Note,Nurse New OB-WCHD,158
+Progress Note,FP.Implant Insertion.HCDPH,158
+Progress Note,MH - Immunization Only,158
+TB SKIN TEST GIVEN,TB Skin Test  NCHD,157
+Progress Note,BF - WCC 5 year Visit,157
+Progress Note,Barton TB Skin Test Reading,157
+Progress Note,B12 injection-Nurse only,157
+Progress Note,CD Encounter -HCDPH,156
+Progress Note,ZBF - WCC 4 Month,155
+Progress Note,PC - Adult PE,155
+Progress Note,ZBF - WCC 12 Month,155
+Progress Note,FP - Pill Refill - WCHD,154
+Flu vaccine,Flu Vaccine Note,154
+Family Planning,FP - Nexplanon Insertion,154
+VLab Report ,Bilat Lwr Extr Venous Insuffic,153
+Progress Note,ZBF-Well Child 18 Months,153
+Progress Note,AH-Well Women Exam,153
+Progress Note,CRHS BCCCP Referral,152
+Admit Note,zzPC Limited Note DO NOT USE,152
+Admit Note,Gaffney Medical Patient,152
+Diagnostic Test,Nuclear Exercise Test,152
+Progress Note,FP NEXPLANON CHECK,151
+Progress Note,CH-Well Child 6 Months,151
+Progress Note,WISEWOMAN LP/HC,151
+Progress Note,MNT RPM,151
+Progress Note,DOT Physical Exam,150
+Progress Note,Anxiety Follow Up,150
+Maternal,Maternal - Initial,150
+Progress Note,COLPOSCOPY PROCEDURE Visit,149
+Progress Note,Kim - Note,149
+Progress Note,WW Annual Screening Form 4049A,148
+Progress Note,MH Nutritionist,148
+Progress Note,DCHD TB SKIN PLACEMENT,147
+Progress Note,FP - Emergency Contraception,147
+BH Note,BH Progress Note - Peds,146
+Progress Note,CH-Well Child 4 Months,146
+Progress Note,CH - Well Child 2 Month,146
+Progress Note,BCCCP Cervical Cancer 2020,145
+Progress Note,BH Coaching,145
+Admit Note,PPD Shortage Screening,145
+Progress Note,RCPH Lab Only,144
+Progress Note,BCCCP Visit SCHD,144
+Progress Note,ZBF - Well Child 2 Month,144
+Progress Note,ZBF 15 Month Visit -NEW,144
+TB Epi 2,TB Epidemiological- Provider,144
+Progress Note,BCCCP-Cervical Screen Data 23,144
+Progress Note,BCHD STD VISIT,143
+Progress Note,Barton TB Skin Test,142
+Progress Note,BCCCP Data Forms,142
+Progress Note,A Telemedicine Visit,142
+Progress Note,BF Well Child 15-21yrs. ,142
+Progress Note,BF - WCC 1wk Vst 3-5days,140
+Device Note,Remote Check,140
+Progress Note,BF - WCC 9-10 yr visit,139
+CMS Programs,Chronic Care Management,139
+BH Note,BH Progress Note - Adult,139
+Admit Note,CH- School PE,139
+Progress Note,FP-Pregnancy Test 4140 NCHD,139
+Telephone encounter,DCHD RESULTS,138
+Progress Note,ZBF - WCC 9 Month,138
+Progress Note,BF Well Child 15-21yrs - WCHD,138
+Admit Note,MH - 6 BTL Soap Note,137
+Progress Note,BF-Well Child 5-6yrs.- WCHD,136
+Progress Note,zzzCH-Well Child 4yrs.,135
+BCCP,BCCCP,135
+Progress Note,CH-Well Child 18 Months,135
+VLab Report ,Iliac Duplex,135
+Progress Note,ZBF - Well Child 2 to 5 Days,134
+Progress Note,DCHD TB RESULTS NOTE,133
+Progress Note,BCCCP Care Plan,133
+Progress Note,BF-Well Child 4yrs RPM,133
+Admit Note,BCCCP Flowsheet,133
+Admit Note,IM Injection,132
+Family Planning,FP - Nexplanon Removal,132
+Progress Note,CD - TB Screening,132
+Nerve Conduction Study,EMG - LE,132
+Progress Note,Pregnancy Test Counseling SCHD,131
+Progress Note,z-MH Initial HX Nurse.HCDPH,131
+Progress Note,WASH - APC PC/Physical/Sick,130
+Progress Note,UTI,130
+TB,TB Flow Sheet,129
+Progress Note,FP.Implant Removal.HCDPH,129
+Adult Health,AH-Physical,128
+BF NOTE,BF-Well Child 11-14yrs NCHD,128
+Progress Note,FP General Clinic Flowsheet,127
+Progress Note,BF - WCC 2 month visit,126
+Progress Note,zzzCH-Well Child 7-8yrs.,126
+Progress Note,FP Problem Visit,126
+Progress Note,ZBF - Well Child 1 Month,126
+Progress Note,Lead Note,126
+Progress Note,LTBI Flow Sheet,126
+Progress Note,URI,126
+Progress Note,DCHD IMMUNIZATIONS TRACKING,125
+Progress Note,ZBF-Well Child 15 Months,125
+Progress Note,FP Follow Up Visit,124
+Admit Note,TB Drug Record,124
+Progress Note,TytoCare CH Sick Note,123
+TB SKIN TEST READING,TB Skin Test Reading NCHD,123
+Admit Note,Phone Encounter,123
+Progress Note,CH-Well Child 9 Months,122
+Progress Note,FP Combined Note,122
+TB Epi,TB Epi Record Pt1,122
+H&P Note,BF-Child Health History,122
+Progress Note,PC - Pedi Interperiodic,121
+Progress Note,BCCCP  P5 Cervical Cancer,121
+Progress Note,BF - WCC 1 month visit,121
+Progress Note,ZBF Well Child 2 1/2 years NEW,121
+Psychology,PPN OutPatient Dr.O'Malley,121
+Admit Note,17P INJECTION,121
+Progress Note,FP 4060F - Female New Note,120
+Progress Note,APC - Sick Visit Note BCHD,119
+Admit Note,Psychiatric Evaluation,119
+Progress Note,BF - WCC 4 year Visit,119
+Progress Note,TB Epi Record OLD,119
+Combination Services,Immunization Note,118
+Speech Therapy,SOAP MedSLP,118
+Progress Note,Prescription Refill,117
+Admit Note,SCHD General Visit,117
+FP History ,zzzzFamily Planning Physical,116
+Progress Note,BF-Well Child 9-10yrs. - WCHD,116
+Progress Note,WW Health Coaching Note 2020,116
+VLab Report ,Rgt Lwr Extrem Arterial Duplex,116
+Progress Note,FP IUD Insertion,116
+Progress Note,BF - WCC 4 month Visit,116
+Phone Encounter,Lab Results Call,116
+Progress Note,BF Well Child 4 Year,115
+VLab Report ,Left Lwr Extre Arterial Duplex,115
+Progress Note,Pharmacy/Result Encounter,115
+TB Epi 1,TB Epidemiological- Nurse,114
+Progress Note,BF - WCC 12 month visit,114
+Progress Note,BF Well Child 5 Year,113
+Progress Note,LB Individual Therapy,113
+Progress Note,BF - WCC 6 Month Visit,113
+Progress Note,DCHD FP IV/CP,112
+Progress Note,Lice Checklist SCHD,111
+Progress Note,CD - TB DOT,111
+Progress Note,Pertussis Surveillance - DCHD,111
+Child Health,BF-Well Child 18 Months,110
+Admit Note,Covid Antibody Test,110
+Admission Note,COVID Administration Note,109
+Progress Note,BCCCP Visit WCHD,109
+Admit Note,zzz BCCCP  Screening Form 18,109
+Progress Note,BIVALENT COVID VACCINE NOTE,109
+Progress Note,BF - WCC 2 year Visit,109
+VLab Report ,Left Lwr Extrem Bypass Graft,108
+Admit Note,Telepsych Note,108
+Progress Note,Allergy Note,108
+VLab Report ,Rgt Lwr Extrem Bypass Graft ,107
+Progress Note,Colpo,107
+Combination Services,TB Skin Test,107
+Phone Encounter,Letter to Referring Provider,107
+Progress Note,BF - WCC 9 month visit,106
+Phone Encounter,BH Phone Note,106
+Progress Note,BF - Well Child 1 Month,105
+Progress Note,Adult Health Exam,105
+Progress Note,BF Well Child 3 Year,105
+Telehealth,Telemed APC - Sick/Physical,104
+MH Exam,MH Initial Physical Exam NCHD,104
+Phone Encounter,Phone Encounter Dr.Malik,103
+Child Health,BF - Well Child 6 Months,103
+Family Planning,FP - IUD Insertion,103
+Admit Note,SCHD Primary Care 2022,103
+Progress Note,Post Partum F/U Care Visit,103
+Progress Note,TB EPI RECORD,103
+Progress Note,MESH FQHC,103
+Progress Note,Rash,102
+Progress Note,FP - Nexplanon Removal,102
+Progress Note,CO - C-19 Mod Vaccine-3RD Dose,102
+MD Progress,FN Outpatient Dr. Kasuganti,102
+Progress Note,CVS Visit Note,102
+Progress Note,Pregnancy Test,101
+Progress Note,BF - WCC 3 year Visit,100
+Progress Note,CHPE 3 to 5 days Newborn,100
+Progress Note,Telehealth Visit,100
+Progress Note,TB PPD Screening Note,99
+Progress Note,DCHD Telephone Encounter,99
+Progress Note,CH -Child Health Questionnaire,99
+SICK CHILD,Child Sick/recheck Visit NCHD,98
+Progress Note,Depo Only Visit,98
+Progress Note,BF - WCC 18 month visit,98
+Progress Note,zzzCH-Well Child 9-10yrs.,98
+Progress Note,Colposcopy Form,98
+Progress Note,Maternity ACOG RECORD MCHD,98
+Progress Note,Psych- Feedback Note,98
+Progress Note,BF Well Child 5-6 Year,97
+Admit Note,APC-SICK,97
+Nurse Visit,Nurse Visit,97
+Progress Note,TB Screening,97
+Progress Note,BF-Well Child 2 1/2 years,96
+VLab Report ,Left Lwr Extrem Venous Insuffi,96
+VLab Report ,Left Lwr Extrem Venous Duplex,95
+Progress Note,ADHD Counseling F/UVisit.HCDPH,95
+MH Labs,MH Labs- LCHD,95
+Child Health,BF - Well Child 2 Month,95
+Progress Note,WISEWOMAN Screening,95
+Progress Note,TB Monthly Flow Sheet ,94
+Progress Note,TB Monthly LTBI Med Pickups,94
+TB Epidemiology Record,TB Epidemiological Record Pt 2,94
+Progress Note,Maternity-New Prenatal/Nurse,94
+Progress Note,FP-Nexplanon Insertion,94
+MH Initial Physical,MH Initial Physical Exam- LCHD,94
+Progress Note,DM HNT HLP,94
+Progress Note,BF-Well Child 7-8yrs.- WCHD,93
+Progress Note,MAT-New Maternity NCHD,92
+Progress Note,MH-Medication Encounter.HCDPH,92
+Progress Note,BF - WCC 6 Year Visit,92
+BF NOTE,BF-Well Child 5-6yrs. NCHD,91
+Progress Note,Barton TytoCare Note,91
+H&P Note,'23 SHC New Pt N'pathy w/ Exm,91
+Progress Note,SCHD IUD Removal,91
+Progress Note,BF - WCC 15 month visit,91
+Progress Note,Lab Results Follow up,91
+Progress Note,AH Clinic Note,91
+Child Health,BF-Well Child 4 Months,91
+Progress Note,WW Annual Screening 4049A 2019,90
+Progress Note,BF Well Child 2 Year,90
+Progress Note,BH Case Staffing,90
+VLab Report ,Bilateral Lwr Extr Bypas Graft,89
+VLab Report ,Rgt Lwr Extrem Venous Duplex ,89
+Admit Note,BCCCP Patient Assessment and C,89
+Child Health,BF-Well Child 9 Months,89
+Admit Note,TB SCREENING-STATE SHORTAGE,89
+Progress Note,MH-17 P Injection Note,88
+Progress Note,PC - NonProvider Visit,87
+Progress Note,Nutrition Follow Up,87
+Progress Note,OAS - HIV Testing Only,87
+Progress Note,BF-Well Child 7-8 yrs RPM,87
+Progress Note,RCPH Lab Results,87
+Progress Note,SCHD IUD Insertion,86
+Progress Note,MH 17P Administration Note,86
+Progress Note,Phone Encounter - WCHD,86
+Admit Note,BF 2022 WCC 11-14 YEARS,85
+Admit Note,SCHD COVID Testing Note,85
+Progress Note,Initial TB Mediation Visit,85
+Progress Note,BF-Well Child 9-10 yrs RPM,85
+Admit Note,BCCCP 2019 Breast Screening,84
+Progress Note,BF-Well Child 4yrs.- WCHD,84
+STD TREATMENT,STD Treatment Encounter,84
+Progress Note,Knee Pain,84
+Progress Note,COVID-19 Immunization Note,84
+VLab Report ,Rgt Lwr Extre Venous Insuffic,83
+Phone Encounter,SCHD Phone Encounter,83
+Progress Note,ZZZ BCCCP-Breast Screen Data,83
+Progress Note,TB Short Flow,83
+Child Health,BF-Well Child 15 Months,82
+Progress Note,BCCCP WISEWOMAN Annual Exam,82
+Progress Note,Nexplanon Insertion RPM,81
+VLab Report ,AVF Mapping,80
+Progress Note,BCCCP-Breast Screen Data SCHD,79
+Progress Note,Nexplanon Removal SCHD,78
+Progress Note,PC - MAT Nonprovider Visit,78
+Progress Note,Ear Pain,78
+Progress Note,CH - Problem/Follow-up Visit,78
+Progress Note,HIV Lab Only,77
+Progress Note,PC - CoCM Follow Up,77
+Progress Note,Sore Throat,77
+Progress Note,BF Well Child 12 Months,76
+Progress Note,Nexplanon Insertion SCHD,76
+Admit Note,Jessica- New Patient Visit,76
+Progress Note,FP Female Flow MCHD 2020,76
+Progress Note,BF Well Child 4 Month,76
+Progress Note,Prenatal MNT RPM,75
+CH History,CH Initial Hx Questionnaire,75
+Progress Note,Emergency Contraception - HC,75
+Progress Note,BF-Well Child 2 years - WCHD,75
+MH Education,MH Education NCHD,74
+Progress Note,BF - WCC 7 year Visit,74
+Progress Note,Follow-Up 1,74
+Phone Encounter,Phone Triage GVPH,73
+Progress Note,TB Reading,73
+Progress Note,Mental Health Injections,73
+Progress Note,Blank Note,73
+Progress Note,Tuberculosis Test/ Result,72
+Encounter Note,LCHD PPD Skin Test Note,72
+Progress Note,ZBF Well Child 12 Months.HCDPH,71
+Encounter Note,LCHD STD Visit,71
+TB Template,TB Epi F/U Pt2,71
+Progress Note,Peds SPE / Dental,71
+Surgical Note,ASA Patient Progress Note,71
+Progress Note,STD Treatment - Chlam/Gono,71
+Progress Note,FP- Emergency Contraception,70
+Progress Note,BF - Well Child 02 to 05 Days,70
+Progress Note,Abdominal Bloating/Pain,70
+BF NOTE,BF Well Child 15-21yrs NCHD,69
+Child Health,BF - Well Child 1 Month,69
+Lab Note,AFP Only,69
+Progress Note,FP Nexplanon Insertion,68
+Progress Note,TB Epi Record Page 1-DHHS 1030,68
+Progress Note,BCCCP/Pap/Breast Med Hx PENCHD,68
+Phone Encounter,Delivery Notification,68
+Admit Note,Immunization and PPD,68
+Progress Note,Immunization-Outreach,68
+Progress Note,Covid Vaccine,68
+Progress Note,FP Treatment/PE Completion,68
+Progress Note,Well Woman,67
+Progress Note,FP Postpartum Exam,67
+Admit Note,RECORD OF TB SCREENING,67
+Admit Note,COVID-19 Vaccine,67
+Progress Note,CH-Well Child 15 Months,67
+Progress Note,BCCCP Cervical Cancer 2018,67
+Progress Note,FP-EC Nurse Treatment Only,67
+CMARC Referral,CMARC Referral,66
+Provider Progress Note,ST Provider Visit,66
+Progress Note,OS - Head Check,66
+Progress Note,BF Well Child 6 Month,66
+Progress Note,Peds BH Note,65
+Progress Note,Maternity-Initial PE/Provider,65
+Progress Note,zzzCH-Well Child 3 years,65
+Progress Note,BF-Well Child 15-21yrsRPM,65
+Admit Note,SCHD NewPN-Provider,65
+MH RTC Return Client,ACOG RECORD,65
+Admit Note,Colpo,65
+Progress Note,BF-Child Health History,65
+Progress Note,BF Well Child 3-5 Days,65
+TB Epidemiology Record,TB Epidemiological Record Pt 1,64
+Hepatitis C,Hepatitis C Treatment.,64
+Progress Note,BF-Well Child 3 years - WCHD,64
+Progress Note,Sinusitis Acute,64
+Progress Note,FP Pill Pick Up,64
+Progress Note,BF Well Child 18 Months,64
+Encounter Note,LCHD PPD Read Note,64
+Progress Note,BCCCP-Screening Data,63
+Prostate Screening Form NCHD,Prostate Screening Form NCHD,63
+MH RTC New Client,ACOG RECORD,63
+Lice Check,Lice Check,62
+Admit Note,SCHD NewPN-Nurse,62
+Progress Note,BF Well Child 1 Month,62
+Progress Note,HIV ST Pre Test Counseling,62
+Progress Note,WISEWOMAN Data Forms,62
+Progress Note,SCHD BF Well Child 5-6yrs.,61
+Progress Note,BF-Well Child 3 yrs RPM,61
+VLab Report ,Upper Extremity Vein Mapping,61
+Progress Note,PC - Procedure,61
+Progress Note,COVIDResult,61
+Progress Note,Group B Strep Follow Up,60
+H&P Note,Peripheral Angio Provider Note,60
+Phone Encounter,ED Follow-up Phone Encounter,60
+Progress Note,FP-Nexplanon Removal,60
+Progress Note,PC - Newborn Exam,59
+Progress Note,BF Well Child 9 Month,59
+Initial Evaluation,PT Eval New 2020,59
+TB Screening,TB Record of Screening- LCHD,59
+Progress Note,Viral Hepatitis EPI Record,58
+MD Progress,FRP MED Daily Progress Note,58
+Progress Note,DCHD PREGNANCY TEST,58
+Phone Encounter,Clinic Support Missed Appt,58
+Progress Note,Shoulder Pain,58
+Progress Note,WASH - Immunization Note,58
+Progress Note,BF - Well Child 7-8 Year NEW,58
+H&P Note,Annual Physical Exam,57
+Progress Note,FP IUD CHECK,57
+Progress Note,MOUD Follow up,57
+Progress Note,CH - Bright Futures Prob Visit,57
+Progress Note,Nexplanon Insertion NCHD,56
+VLab Report ,Renal Duplex,56
+Other,DCHD GENERAL HV NOTE,55
+Progress Note,RECORD OF TB SCREEN Do not use,55
+Progress Note,FP Nexplanon Removal,55
+Progress Note,BF-Well Child 18 Months - WCHD,55
+Progress Note,BF - WCC 8 yr visit,55
+Progress Note,BF-Well Child 12 Months - WCHD,55
+MH Intake,CCHD PN Nurse Intake and US,55
+Progress Note,BCCCP-Cervical Screen Data SCH,54
+Paragard,FP Paragard IUD Insert- LCHD,54
+CC4C Referral,CMARC Referral,54
+Well Child,Well Exam 15-16 Year Exam,54
+Progress Note,BF - Well Child 5 Year NEW,54
+Progress Note,FP Emergency Contraception,53
+Progress Note,HWC - Initial Form,53
+Progress Note,MH- 17 P  RPM,53
+Progress Note,CH - Well Child 1 Month,53
+Progress Note,FP-IUD Insertion,53
+BF NOTE,BF-Well Child 9-10yrs. NCHD,52
+Progress Note,MH Problem,52
+Progress Note,Law Enforcement Physical,52
+Progress Note,Dizziness,52
+MH Labs,MH Glucose Testing,51
+Progress Note,IUD Check SCHD,51
+Admit Note,Annual Wellness Visit,51
+Progress Note,HWC - Follow up Form,51
+Progress Note,AWV visit w/Health Coach,51
+Initial Evaluation,Psych Eval Dr. O'Malley,51
+Admit Note,BF 2022 WCC 15-17 YEARS,51
+Progress Note,ZZZSCHDTBSkinTestVisit,50
+Progress Note,Pregnancy Test Visit,50
+Progress Note,Leg Pain,50
+Progress Note,WI - Lab Only,50
+Admit Note,LCSW HR Mat Psych Dis Sum,49
+BF NOTE,BF-Well Child 4yrs. NCHD,49
+Progress Note,SCHD BF Well Child 11-14yrs,49
+Progress Note,BF Well Child 15 Months,49
+AH Hx,AH Clinic Hx,49
+Progress Note,BF - Well Child 2 to 5 Days,49
+Phone Encounter,Case Management,49
+Off-Service Note,Nursing Note,48
+Progress Note,Missed Appointment,48
+Progress Note,BF-Well Child 4yrs. ,48
+Progress Note,BF-Well Child 6 Months - WCHD,48
+Progress Note,TB Epi Record Page 2-DHHS 1030,48
+Progress Note,BF-Well Child 9 Months - WCHD,48
+Progress Note,TB Shortage Screening Form,48
+FP History ,zzFP Fem Health Hx 4060F,48
+H&P Note,APC-Well Women Exam,48
+Progress Note,FC LESI,47
+Progress Note,BF - Well Child 9-10 Year NEW,47
+TB,TB Epi Record Pt1,47
+Progress Note,TB Risk Questionnaire SCHD,47
+Well Child Check,CH Physical 11-14 Years Old,47
+Progress Note,BCHD STD TREATMENT NOTE,46
+Progress Note,FP PE Completion,46
+Surgical Note,Surgeon History and Physical,46
+Progress Note,Nexplanon Removal/Insertion,46
+Progress Note,CH Rpt. Vision and/or Hearing,46
+Progress Note,Annual Physical Exam,46
+Progress Note,BF Wll Child 15-21yrs.,46
+Progress Note,RCPH FP-Pregnancy Test 4140,46
+Progress Note,ADHD Follow up,45
+AH Hx,AH Hx  School/Work,45
+Progress Note,CH - Dental Varnish,45
+Provider Progress Note,FP Provider Visit,45
+Progress Note,IUD Insertion SCHD,45
+Progress Note,TB Screening Form NCHD,45
+General Note,WASH - General Nurse Note,45
+Progress Note,Physical Completion,45
+Progress Note,PC - CoCM Initial,44
+Progress Note,IPPE,44
+Progress Note,BH Screening Documentation,44
+Phone Encounter,Psych-Contact Note,44
+Well Child,Well Exam 13-14 Year Exam,44
+Progress Note,BF-Well Child 15 Months - WCHD,44
+Admit Note,FP-DEPO,43
+Progress Note,AH-Follow Up Visit,43
+Progress Note,BF Well Child 2 Month,43
+Progress Note,WW Annual Screening 4050B 2019,43
+Progress Note,AH - Problem/Follow Up - WCHD,43
+Progress Note,z-CCNC Pregnancy Home Risk ,43
+Progress Note,BF - Well Child 2 Month - WCHD,43
+Admit Note,BCCCP Breast Cancer 2019,43
+mat,Phone Encounter,42
+Progress Note,DCHD STD TREATMENT/FOLLOW-UP,42
+Progress Note,TB Epi F/U Pt2,42
+Progress Note,FP Male PE Sheet,42
+Progress Note,BF-Well Child 4 Months - WCHD,42
+17P,17-P Only Visit,42
+Progress Note,BCCCP Case Mgt/Needs Assmt,42
+Admit Note,iPsychiatric/Therapy Prog note,42
+Family Planning,FP Nexplanon Removal/Insertion,41
+Progress Note,ZZWW Post LSP/HC F/U 4050B,41
+TB Notes,TB Observed Therapy,41
+Progress Note,FP Limited Visit MCHD 2020,41
+Child Health,CH - Problem Visit,41
+Admit Note,Emergency Contraception Visit,41
+Progress Note,BH - Limited Nurse Note,41
+Progress Note,COVID Testing,41
+Progress Note,Tuberculosis Screening,41
+CMS Programs,CCM Billing,41
+Progress Note,Prescription,40
+Progress Note,REPAP,40
+Progress Note,Community Based Testing,40
+Maternity Visit,MH - 3 Ultrasound,40
+Progress Note,SCHD BF Well Child 7-8yrs.,40
+Child Health,BF - Well Child 3 to 5 Days,40
+Admit Note,Diabetes Note,40
+Progress Note,zzAdult Physical Note,40
+Well Child,Well Child 9-10 Year Exam,39
+H&P Note,Pregnancy Test Note,39
+Progress Note,BH Psychiatry Follow-up,39
+Initial Medical,Med Eval  Dr. Carlton,39
+Progress Note,MAT Follow Up,39
+Progress Note,SCHD BF Well Child 15-21yrs.,39
+Progress Note,IUD String Check,39
+BF NOTE,BF-Well Child 7-8yrs. NCHD,39
+Progress Note,Sports Physical,39
+Consultation Report,Phone Encounter,39
+Narcan Training and Dispensing,Narcan Training and Dispensing,39
+Consultation Report,PC - CoCM Case Review,38
+Progress Note,Nexplanon Check,38
+Primary Care,CC-OMH Return Visit,38
+Procedure Note,BF Well Child 6 Years,38
+Admit Note,zzzBCCCP Cervical Screening 18,38
+Child Health,CH-BF Well Child 11-14yrs LCHD,38
+Progress Note,CD - STD Test Results -HBsAb,38
+Admit Note,BF 2022 WCC 9-10 YEARS,37
+Admit Note,Nexplanon Removal RPM,37
+Progress Note,PPNB Home Visit - Postnatal,37
+Progress Note,PPNB Home Visit - Newborn,37
+Progress Note,APC HEENT Complaint,37
+Liletta IUD Insertion,FP Liletta IUD Insertion-LCHD,37
+Progress Note,Nexplanon Removal NCHD,37
+Well Child,Well Exam 11-12 Year Exam,36
+General Note,zCOVID Administration Note,36
+Progress Note,Hip Pain,36
+Progress Note,STD Encounter - 2021 MCHD,36
+Progress Note,Medicare Visit,36
+Progress Note,CO-C-19 Pfizer Vacc. Bivalent,36
+Progress Note,Hypothyroidism,36
+Progress Note,Injection Note,35
+Admit Note,BF 2022 WCC 3-5 DAYS,35
+Progress Note,EMG - UE,35
+H&P Note,Lab Only,35
+Progress Note,MH-New OB ACOG Note,35
+Progress Note,CD- TB Individual Contact Form,34
+Progress Note,Lamaze Childbirth Classes,34
+Admit Note,Misc. Provider Note,34
+Well Child Check,CH Physical 15-21 Years Old,34
+Admit Note,BF 2022 WCC 5 YEARS,34
+BCCCP Follow Up,BCCCP-Breast Screening Data,34
+Progress Note,FP Female Flow 2814F NCHD,34
+Encounter Note,LCHD FP Annual/Initial Female,34
+Progress Note,Expedited Partner Therapy,34
+Progress Note,Allergy Shot,33
+Admit Note,CH PROBLEM/SICK NOTE-NEW,33
+Progress Note,TB - Record of TB Screening,33
+Progress Note,Active TB Flow Sheet,33
+Progress Note,CH-Well Child 2 1/2 years,33
+Progress Note,FP - Postpartum Visit,33
+Progress Note,Dental Fluoride Varnish,33
+Admit Note,BF 2022 WCC 18 MONTHS,33
+Surgery Note,CP-FNA,33
+Admit Note,TB Risk Screen,32
+Progress Note,TB,32
+BH Note,BH Treatment Plan - Adult,32
+Progress Note,BF-Well Child 2 yrs RPM,32
+Progress Note,BCCCP Breast Form,32
+Well Child Check,CH Physical 5-6 Years Old,32
+Admit Note,BF 2022 WCC 7-8 YEARS,32
+Admit Note,BF 2022 WCC 4 YEARS,32
+Progress Note,Colposcopy,31
+Progress Note,Diabetes,31
+Progress Note,Referral,31
+Progress Note,zzzCH-Well Child 2 years,31
+TB Epidemiology Record,TB Medications,31
+Progress Note,Oral Health Risk Assessment,31
+Off-Service Note,Phone Encounter,31
+Admit Note,BF 2022 WCC 2 MONTHS,31
+Admit Note,APC-Specialty PE Recheck,31
+Admit Note,BF 2022 WCC 12 MONTHS,31
+Admit Note,BF 2022 WCC 1 MONTH,31
+Progress Note,CD - STD Treatment Only,31
+MH Intake,MH-RETURN PRENATAL.HCDPH,31
+Progress Note,Clinic Support Encounter,30
+Admit Note,BF 2022 WCC 3 YEARS,30
+Psychology,Cogsmart Notes,30
+Admit Note,BF 2022 WCC 2 YEARS,30
+Admit Note,BF 2022 WCC 4 MONTHS,30
+Progress Note,TB/LTBI Flow Sheet,30
+Progress Note,TB Screening Form - WCHD,30
+Progress Note,Barton Allergy Shots,30
+Progress Note,BF - Well Child 6 Year NEW,30
+Encounter Note,LCHD FP Limited/Method/Problem,30
+H&P Note,Harry - Med Follow Up,30
+Progress Note,BRIGHT FUTURES PROBLEM VISIT,30
+Progress Note,Initial Visit,29
+Admit Note,Suboxone Intake Hx and Phy,29
+Progress Note,BF-Well Child 2 to 5 Days-WCHD,29
+Progress Note,Headache or Pain,29
+Progress Note,BF - Well Child 18-21 Year NEW,29
+Child Health,CH-BF Well Child 5-6yrs. LCHD,29
+Progress Note,TB Epidemiological Record Pt 2,29
+Progress Note,FP Male Flow 2814M,29
+Progress Note,"Gout, Acute",29
+Admit Note,BF 2022 WCC 6 MONTHS,29
+Progress Note,NOTE,29
+Plan B,CCHD FP Emergency Contraceptio,29
+Well Child,Well Exam 17-18 Year Exam,29
+Progress Note,WW Annual Screening 4049A 2020,29
+Progress Note,WW Annual Screening 4051A 2020,29
+Progress Note,Chronic Pain,29
+Admit Note,BF 2022 WCC 15 MONTHS,29
+Progress Note,BF - Well Child 1 Month - WCHD,29
+Progress Note,DCHD BCCCP Data,28
+VLab Report ,Left Upper Extre Bypass Graft ,28
+Progress Note,TB Epidemiological Record Pt 1,28
+Maternity Visit,MH - Physical Exam,28
+Initial Medical,Med Eval Dr. Kasuganti,28
+Progress Note,ADHD Initial Visit.HCDPH,28
+Progress Note,BH New Diagnostic Assessment,28
+Progress Note,DOT Physical,28
+EIC Hx,EIC Health Hx,28
+Admit Note,2018 Breast Screening Form,28
+Progress Note,TB Epi Record NEW,28
+Progress Note,FP Nexplanon Rem/Ins,28
+Progress Note,Neck Pain,27
+Progress Note,SCHD BF Well Child 4yrs.,27
+Phone Encounter,Phone Encounter SCHD,27
+Admit Note,BCCCP 2019 Cervical Screening,27
+Progress Note,IUD Insertion  RPM,26
+BH Note,BH Treatment Plan - Peds,26
+Progress Note,Ear Clogged,26
+Progress Note,BCCCP Referral,26
+Well Child,Well Child 7-8 Year Exam,26
+Progress Note,CD - Bloodborn Exposure Report,26
+Consultation Report,MH OB US Results SCHD,26
+Progress Note,Cholesterol 6 month f/u WCHD,26
+Progress Note,WW Annual Screening 4049A 2018,26
+Admit Note,Well Child 15 month visit 2019,26
+Progress Note,BC FP Female Physical Exam,26
+Progress Note,Test,26
+Well Child Check,CH Physical 9-10 Years Old,26
+Progress Note,TB DHHS 2810,25
+Admit Note,BF 2022 WCC 6 YEARS,25
+Admit Note,FP-Nexplanon REMOVAL/INSERTION,25
+Admit Note,Smoking Cessation,25
+Admit Note,TB Nurse Note,25
+Phone Encounter,Outside Referral,25
+Progress Note,TB Epi Record Pt1- CCHD,25
+Progress Note,ZZZ BCCCP-Cervical Screen Data,25
+Maternal Return,CCHD PN Established,25
+Progress Note,DCHD BCCCP,25
+H&P Note,Lab Results,25
+Admit Note,BCCCP Cervical Cancer 2019,25
+CH Sick Visit,CCHD CH SICK Visit,25
+Family Planning,Nurses Note,25
+Progress Note,FP -Nexplanon Insertion - WCHD,24
+Progress Note,Barton Lab Only  - Covid 19,24
+Off-Service Note,Nurse visit,24
+Progress Note,SCHD BF Well Child 9-10yrs.,24
+TB Notes,TB Monthly Assessment,24
+Progress Note,FP Male Flow/Green Sheet,24
+Depo or Pill Check,CCHD FP Depo/Pill Check,24
+Admit Note,BF 2022 WCC 9 MONTHS,24
+Progress Note,CD - Skin Rash,24
+Mirena IUD Insertion,FP Mirena IUD Insertion- LCHD,24
+Progress Note,Phone Encounter NCHD,24
+Progress Note,CO -C-19 Pfz Vaccine-4th Dose,24
+Well Child,Well Child 5-6 Year Exam,23
+WiseWoman,WW Health Coaching 4050A,23
+Phone Encounter,ASCVD Risk Calculation,23
+Progress Note,Insomnia,23
+Encounter Note,LCHD Adult Physical Note,23
+TB Flow Sheet,CCHD TB Flow Sheet,23
+Admit Note,AH-Follow Up Visit,23
+TB SCREENING FORM,TB Screening Form NCHD,23
+MH return visit,MH Return Note NCHD,23
+Progress Note,Routine - Medi Annual Wellness,22
+MH Note,MESH FQHC,22
+CH Initial Hx,CH Initial Hx 2023,22
+Progress Note,MAT Intake Note,22
+Progress Note,BF Well Child 2 Months,22
+Progress Note,TB Screening/ IGRA,22
+Progress Note,ST Follow-Up,22
+Encounter Note,LCHD General Nurse Note,22
+Progress Note,Implanon/Nexplanon Removal,22
+Psychology Assessment,Psych-Assessment Note,22
+MH Intake,Phone Encounter,22
+Progress Note,Skilled Nurse Home Visit.HCDPH,22
+Progress Note,Wilkes Co AH Enrollment,22
+Progress Note,ER Follow up,22
+Encounter Note,LCHD BCCCP Screening Data,21
+Provider Progress Note,DEV FP Annual TZ,21
+BF NOTE,BF-Well Child 3 years NCHD,21
+BH Office Visit,Blank Note,21
+Diagnostic Test,Treadmill Exercise Test,21
+Progress Note,BCCCP-Cervical Screening Data,21
+Progress Note,FP Problem,21
+Progress Note,Shortness of Breath,21
+Admit Note,ST Results,21
+Admit Note,ZZ BCCCP 2018 Breast Screening,21
+Adult Sick or Problem Focused,CCHD Adult Acute Care,21
+Progress Note,TB Screening Form SCHD,21
+Progress Note,Barton IM Injection,21
+Progress Note,Emergency Contraception,21
+Progress Note,Employee Health,21
+Progress Note,RCPH Record TB Screening Form,21
+Progress Note,CD - Blank,20
+Child Health,CH-BF Well Child 9-10yrs. LCHD,20
+Progress Note,Barton Depo,20
+VLab Report ,Lower Extremity Vein Mapping ,20
+Progress Note,CD,20
+Progress Note,BH Psychiatry H and P,20
+Progress Note,Angiogram Nonphysician,20
+Progress Note,MH 17P Injection,20
+Progress Note,COVID-19 Testing Home Visit,20
+Admit Note,Follow Up,20
+Initial Evaluation,PT eval Mike 24,20
+Admit Note,Well Child 12 month visit 2019,20
+Progress Note,BF - WCC 18-21yr Visit,20
+Initial Psychology,Psych Eval Dr. Darcy Alexander,20
+Progress Note,BF - Well Child 3 Year NEW,20
+BCCCP,AH/BCCCP Annual,20
+Primary Care,CC-OMH Initial Visit,20
+Progress Note,ZBF - WCC 3-5 days,20
+Progress Note,CC-OMH Initial Visit,20
+Progress Note,ZZ Z Pregnancy Tst and Counsel,19
+Admit Note,SCHD Nurses Note,19
+Progress Note,BF - WCC 2/h Year Visit,19
+Initial Psychology,Psych Eval Dr. O'Malley,19
+Admit Note,CCHD BCCCP Needs Assessment,19
+Limited note,FP-Problem Visit,19
+Progress Note,Blank Template,19
+Progress Note,TB Record of TB Screening,19
+Progress Note,Depression follow up,19
+Progress Note,CO -C-19 Mod Vaccine-4th Dose,19
+Progress Note,Hyperlipidemia,19
+BCCCP Follow Up,BCCCP PATIENT NAVIGATION,19
+VLab Report ,Mesenteric Duplex,19
+H&P Note,Phone Encounter,18
+MD Progress,No Show TKC,18
+Admin Note,BH Closure Note.HCDPH,18
+Progress Note,BF - Well Child 4 Year NEW,18
+Admit Note,CCHD COVID FP,18
+Progress Note,Wound Check,18
+Progress Note,BF Well Child 6 Years,18
+Progress Note,BF-Well Child 12 Mth RPM,18
+Progress Note,zzzMH-GVPH New OB Complete,18
+Procedure Report,Peripheral Angio Provider Note,18
+Progress Note,CO - C-19 Pfz Vaccine-3RD Dose,18
+Well Child Check,CH Physical 7-8 Years Old,18
+Progress Note,FP - Male Flow 2814M,18
+Progress Note,Well child 5year Visit 2019,17
+Progress Note,BF-Problem Visit-telemedicine,17
+FP History ,FP 4060M - Male Health Hx,17
+Progress Note,Lab Services,17
+Progress Note,Adult Health Problem Visit,17
+Progress Note,Well Adolscnt 11-14yr Vst 2019,17
+Progress Note,Pregnancy Test MCHD 2020,17
+Progress Note,Sexually Transmitted Diseases,17
+Progress Note,Home Visit - Postnatal SCHD,17
+Progress Note,TB DOT Progress Note,17
+Progress Note,ZZZ Medication Encounter,17
+Note,Progress Note,17
+Progress Note,Diarrhea Acute,17
+Admit Note,Gaffney Allergy Testing Note,17
+Progress Note,DCHD-TB EPIDEMIOLOGICAL RECORD,17
+Progress Note,MH Sick Note,16
+VLab Report ,ABI with Exercise ,16
+Admit Note,BF 2022 WCC 2 1/2 YEARS,16
+Gestational Diabetic,Gestational Diabetic,16
+Progress Note,Hepatitis Case Management,16
+H&P Note,ASA Patient Progress Note,16
+Initial Medical,IME Dr. Carlton,16
+Family Planning,FP Annual / PP Visit- LCHD,16
+Family Planning,FP Annual - Male Revised,16
+Initial Evaluation,PT eval Sam,16
+Progress Note,IUD Removal SCHD,16
+Progress Note,MH - Problem Visit,16
+Progress Note,FP Supply/Problem Visit,16
+DOT PHYSICAL,DOT PHYSICAL,16
+Progress Note,BF-Well Child 18 Mth RPM,16
+Progress Note,SPORTS PHYSICAL-LIMITED,16
+Progress Note,Well Child 6 Month Visit 2019,16
+Progress Note,BCCCP CMC care plan,16
+Admit Note,Lab/Radiology Review Note,16
+BF NOTE,BF-Well Child 2 years NCHD,16
+Well Child Check,CH Physical 4 Years Old,16
+Progress Note,CH-Well Child 2 days to 3 wks,16
+Admit Note,CP-FNA,16
+Diabetic Education,Diabetic Education - Week 1,16
+Admin Note,Phone Encounter,16
+TB Epidemiology Record,TB Epidemiological Record,16
+Progress Note,Joint Pain/Arthralgias,15
+BF NOTE,BF-Well Child 6 Months NCHD,15
+BH Note,BH New Diagnostic Assessment,15
+Referral,MANAGED CARE NOTE,15
+Progress Note,SCHD BF Well Child 3 years,15
+Progress Note,FP Male Flow 2814M RPM,15
+H&P Note,'23 SHC New PT H-P/Eval/Exam,15
+Progress Note,Maternity NEW History MCHD,15
+Procedure,Jessica TPI- Meds,15
+Progress Note,STD Case Management,15
+STD Note,Follow-up Note,15
+Progress Note,HCM Procedure Note,15
+Admit Note,ZZZ YC APC Sick Visit,15
+Progress Note,BF-Well Child 6 Months ,15
+Progress Note,FP - IUD Check - WCHD,15
+Progress Note,CD Nurse Note,15
+Progress Note,CD - Tuberculosis Drug Record,15
+Well Child,Well Child 4 Year Exam,15
+Admit Note,Well Child 2year Visit 2019,15
+Progress Note,CCNC Pregnancy Home Risk ,15
+Progress Note,"zzPeds, Asthma Note",15
+Progress Note,ADHD Follow Up Adult,15
+TB Epi Record Part 1,CCHD TB Epi Record,15
+Progress Note,Chest Pain,15
+Encounter Note,LCHD Lab Visit Note,15
+Admit Note,HWC - Blank Note,15
+Admit Note,CC4C Note,15
+Progress Note,Well child 2month visit 2019,15
+Progress Note,BF- Well Child 2 Month,15
+Progress Note,zzzCH Problem Visit,15
+Progress Note,Test Results,14
+Triage Note,Triage Note,14
+Progress Note,FP - Nexplanon Removal - WCHD,14
+Progress Note,FC CESI,14
+Admit Note,CD- TB Individual Contact Form,14
+Child Health,CH-BF Well Child 15-21yr- LCHD,14
+Progress Note,Asthma,14
+Progress Note,FP Postpartum CP MCHD 2020,14
+Progress Note,FP-Male Flow 2814M,14
+Procedure Note,BCCCP 6 month F/U visit,14
+Progress Note,MH-New Maternity,14
+Combination Services,TB Skin Test Reading ,14
+VLab Report ,IVC Duplex,14
+Admit Note,Primary Care Note,14
+MH Note,MH New History,14
+Admit Note,CCHD FP FEMALE ANNUAL/NEW,14
+Progress Note,Immunization-MPOX vaccine,14
+H&P Note,FP - Nexplanon Implant Removal,14
+Admit Note,BCCCP Referral Note,14
+Progress Note,Hand Pain,14
+COVID19 Vaccine note,COVID-19 Vaccine Note,14
+Progress Note,MVA,14
+Monthly Eval,TB Monitoring Flow Sheet- LCHD,14
+Admit Note,MH - Problem Visit,14
+Progress Note,Edinburgh Depression Scale,14
+Progress Note,Well Child 4 year Visit 2019,14
+Progress Note,Well Child 2 1/2 Yr Visit 2019,14
+BF NOTE,BF-Well Child 12 Months NCHD,14
+Dictation Note,CVS MD Note,14
+Progress Note,FP Annual,14
+Progress Note,FP MALE Hx/Initial/Ann,14
+Progress Note,zzMH-Follow Up Visit Note,14
+Progress Note,TB Epi Record Pt1-WCHD,14
+Progress Note,FP - IUD Insertion - WCHD,13
+Progress Note,AH Depo Admin,13
+Progress Note,Home Visit - Newborn SCHD,13
+Progress Note,MNT,13
+Progress Note,TB Test,13
+Progress Note,ZBF - WCC 2 month,13
+Progress Note,BF-Well Child 9-10yrs. ,13
+Admit Note,Well Child 3year Visit 2019,13
+Diabetic Education,Diabetic Education - Week 2,13
+Nurse Admin ,MH - Problem Visit,13
+Well Child,Well Child 3 Year Exam,13
+Well Child Check,CH Physical 3 Years Old,13
+MH Intake,z-MH Initial HX Nurse.HCDPH,13
+BCCCP,BCCCP Follow Up Note,13
+Progress Note,Well Child 18 month visit 2019,13
+Admin Note,CD - Rabies Titer,13
+Phone Encounter,TB Nurse Note,13
+Hepatitis C Initial Visit,CCHD Hepatitis C Initial Visit,13
+BF NOTE,BF-Well Child 18 Months NCHD,13
+Follow UP,Harry - Med Follow Up,13
+Progress Note,Well Adolscnt 15-17yr Vst 2019,13
+Admit Note,BF 2022 WCC 18-20 YEARS,13
+Progress Note,zzGen Immunization Note,13
+Progress Note,PC - Medicare Wellness Exam,13
+Admit Note,Phone Encounter2,13
+Child Health,CH-BF Well Child 7-8yrs.-LCHD,13
+Progress Note,Well Child 9 /10 yr visit 2019,13
+Progress Note,BF-Well Child 2 1/2 yearsRPM,12
+Progress Note,BF-Well Child 2 1/2 years-WCHD,12
+Progress Note,FP Male Flow 2814M NCHD,12
+H&P Note,Nexplanon Insertion,12
+Progress Note,APC-Well Women Exam BCHD,12
+Progress Note,Therapy Initial/Intake,12
+Progress Note,WISEWOMAN Visit,12
+TB Follow Up,Phone Encounter,12
+Progress Note,Well Child 7/8 year Visit 2019,12
+Progress Note,Allergic Rhinitis,12
+Progress Note,Well child 4month Visit 2019,12
+Progress Note,Well Child 6 Year Visit 2019,12
+Procedure Report,Varithena Ablation,12
+BCCCP Visit,CCHD BCCCP Visit,12
+Admit Note,Well Child 9 month visit 2019,12
+Progress Note,EMG - LE,12
+PhoneEncounter,MTW Phone Encounter,12
+VLab Report ,Bilat Lwr Extre Venous Duplex,12
+Progress Note,Lab Results NCHD,12
+Encounter Note,LCHD 17yo and under Physical,12
+Progress Note,Jynneos Vaccine Consent Form,12
+Progress Note,COVID-19 NOTE,12
+Admit Note,testttt,12
+Progress Note,MOUD Initial,12
+FP History ,Phone Encounter,12
+FP History ,FP- Male Health Hx RPM,12
+Progress Note,Dr. Tarkington Note ,12
+Diabetic Education,Diabetic Education - Week 4,12
+TB Notes,TB X-Ray Visit,12
+Progress Note,PT/INR,12
+FP History ,FP Male History Form,12
+VLab Report ,Lft Upper Extre Arterial Duple,12
+FP History ,FP - 4060M - Male Health Hx,12
+H&P Note,Hepatitis C Intake Visit,12
+BF NOTE,BF-Well Child 9 Months NCHD,12
+Progress Note,TB Flow Sheet NCHD,11
+Progress Note,MH Home Visit - Postnatal,11
+Progress Note,BF-Well Child 15 Mth RPM,11
+FP History ,zzz FP 4060F -  Health Hx BCHD,11
+Progress Note,ZBF - WCC 1 Month,11
+Progress Note,MH - 3 Ultrasound,11
+Progress Note,FP Method Procedure Note.HCDPH,11
+Progress Note,FP-IUD Procedure Note,11
+Admit Note,Weight CHeck,11
+BF NOTE,BF-Well Child 15 Months NCHD,11
+Progress Note,Lead Surveillance,11
+Progress Note,TB Epi F/U- CCHD,11
+H&P Note,IUD Check,11
+Progress Note,TB-Record of TB Screening,11
+Progress Note,Test Note Template,11
+Progress Note,17 P Flow Sheet,11
+SW Note,HB Postpartum Service Log,11
+Well Child,Well Child 2 Year Exam,11
+SW Note,HB Intial Pregnant Assessment,11
+Progress Note,Surgeon History and Physical,11
+MH FLOW,Maternal Flow,11
+Progress Note,BF Well Child 2.5 Year,11
+ST Eval,Phone Encounter,11
+Physical Therapy,PT Daily Note,11
+PHQ,PHQ-4,11
+Diabetic Education,Diabetic Education - Week 3,10
+Progress Note,Migraine Follow up,10
+Admit Note,Gaffney Assessment,10
+Family Planning,FP Evaluation Visit- LCHD,10
+Progress Note,ZBF-Well Child 2 1/2 years,10
+Progress Note,Nurse Admin,10
+Child Health,BF-Well Child 2 1/2 years,10
+Adult Physical,CCHD  Adult Health Physical,10
+Adult Health,Nursing School Physical,10
+Admit Note,zSTD Note,10
+Progress Note,STD Treatment Syphilis,10
+Admit Note,Recertification MedSLP,10
+Admit Note,Well Child 18 month visit 2019,10
+CH Followup,CH Follow-up- LCHD,10
+H&P Note,'23 SHC New Pt Lumbar w/ Exam,10
+Progress Note,Blood Pressure Evaluation,10
+Progress Note,Anxiety New Diagnosis,10
+Newborn Home Visit,Home Visit Newborn- LCHD,10
+WiseWoman,WW Form DHHS 4049- LCHD,10
+MH Intake,z-CCNC Pregnancy Home Risk ,10
+Progress Note,BF - Well Child 6 Month NEW,10
+Nurse Progress Note,Dispensed Medications RN,10
+Progress Note,CD - Meningitis Contact,9
+Phone Encounter,CH - COVID19 Test Results,9
+H&P Note,IUD Insertion,9
+Progress Note,PAP,9
+Admit Note,Intake Note,9
+PrEP,PrEP Initial Visit,9
+Progress Note,Cryotherapy Form,9
+Progress Note,FP  Post Partum Visit,9
+Phone Encounter,Form Completion Note,9
+Progress Note,"New Maternity A,B,C,D",9
+Well Child Check,CH Physical 2 Years Old,9
+Procedure Report,RF VEIN ABLATION,9
+Progress Note,Acne,9
+Admit Note,Pertussis Contact Management,9
+FP History ,FP 4060F - Female HX CHS,9
+Well Baby,Well Baby 4 Month Exam,9
+Well Baby,Well Baby 6 Month Exam,9
+Progress Note,Well Child 5 Year Visit 2019,9
+Progress Note,Toe Pain,9
+Progress Note,Employee Health Sick Visit,9
+Progress Note,MCHD - GENERAL NURSE NOTE,9
+Progress Note,Hemorrhoids,9
+Progress Note,Viral Hepatitis EPI Record 2,9
+Progress Note,TB Drug Monitoring,9
+TB Notes,Refugee Communicable Disease,9
+Well Baby,Well Baby Newborn Exam,9
+Progress Note,zzMH - Prenatal Initial - HC,9
+BF NOTE,BF-Well Child 4 Months NCHD,9
+Progress Note,Skin Lesions,9
+BF NOTE,BF-Well Child 2 1/2 years NCHD,9
+Progress Note,BF - Well Child 4 yrs,9
+BF NOTE,BF - Well Child 1 Month NCHD,9
+Low Risk Screening,AH-Low Risk Screening for TB,9
+Nurse Progress Note,Pap Smear Follow-Up,9
+Nurse Progress Note,FP Supply,9
+Progress Note,Sexually Transmitted Diseases ,9
+Well Baby,Well Baby 12 Month Exam,9
+MD Progress,Late Cancelation TKC,9
+Psychology,Late Cancelation WBO,8
+Well Baby,Well Baby 2 Month Exam,8
+Admit Note,Hepatitis C Follow Up,8
+Admit Note,zzz Family Planning Treatment,8
+Progress Note,Quick Start Standing Order- HC,8
+Provider Progress Note,General Provider Note,8
+Progress Note,LB Clinical Assessment,8
+Progress Note,Telemedicine,8
+Progress Note,Ankle Pain,8
+Admit Note,RCPH TB Risk Assessment,8
+Admit Note,MH-17 P Injection Note,8
+Psychology,No Show DA,8
+Postnatal Home Visit,Home Visit Postnatal- LCHD,8
+Admit Note,STI Encounter Form,8
+H&P Note,Nexplanon Removal,8
+TB Notes,DEV TB Monthly Assessment,8
+Progress Note,MAT Initial Visit,8
+Progress Note,Vertigo,8
+Progress Note,BF-Well Child 7-8yrs. ,8
+Procedure Report,Loop Implant,8
+Admit Note,Case Management Note,8
+Admit Note,Well Adolscnt 15-17yr Vst 2019,8
+CD Note,DEV CD Encounter,8
+Progress Note,CPC OUD Return patient note,8
+Nurse Progress Note,ST RN Brief Treatment,8
+Progress Note,Pre-Immigration Exam,8
+Progress Note,Rib Pain,8
+VLab Report ,Rgt Upper Extre Bypass Graft ,8
+Child Health,CH-BF Well Child 3 years,8
+BCCCP,BCCCP,8
+Admit Note,MAT Intake Note,8
+Refugee Notes,Refugee Communicable Disease,8
+E M Visit Established Patient,'23 SHC ROF,8
+Consultation Report,TB Jet Set,8
+Progress Note,zzHome Visit - Newborn,8
+Progress Note,Home Visit - Postnatal - WCHD,8
+Progress Note,COPD,8
+Progress Note,SCHD BF Well Child 2 years,8
+Progress Note,Emergency Contraception FS 2,7
+Progress Note,WCC 4 Years-BF,7
+H&P Note,APC-Well Male Exam,7
+Procedure,Jessica- Suboxone Induction,7
+Progress Note,Weight Loss,7
+Progress Note,BF-Well Child 4 Mth RPM,7
+STD Note,Blank Note,7
+Progress Note,Weight Gain,7
+Progress Note,"FC RF L3/4, L4/5, L5/S1 B",7
+Procedure,Jessica Bilat SIJ-meds,7
+TB Notes,TB and Refugee Follow Up,7
+Admit Note,Nexplanon Removal /ReInsertion,7
+Progress Note,WYA 18 through 21yr Vst 2019,7
+H&P Note,'23 SHC Patient Exam - All,7
+Progress Note,WCC 5 Years-BF,7
+FP History ,FP Female Problem Visit,7
+Admit Note,BFTK PROBLEM VISIT 2019,7
+Progress Note,URI Ped,7
+Progress Note,Sick Visit,7
+VLab Report ,WBI,7
+Progress Note,Psychosocial Risk Screen,7
+Progress Note,zzHome Visit - Postnatal,7
+Progress Note,Pregnancy Test Only,7
+Well Baby,Well Baby 15 Month Exam,7
+Procedure Report,Loop Explant,7
+Progress Note,Phone Encounter SCHD,7
+Progress Note,TB EPI RECORD PT 1,7
+Phone Encounter,Diabetes Education - Phone,7
+CONSULT and EVALUATION,'23 SHC New PT H-P/Eval/Exam,7
+Progress Note,ADHD Evaluation,7
+Admit Note,CCHD PN Initial Physical Exam,7
+Child Health,CH-BF Well Child 4 yrs.-LCHD,7
+Admit Note,Well Adolscnt 11-14yr Vst 2019,7
+Admit Note,"CCHD COVID PC Visit- Sick, F/U",7
+Admit Note,WISEWOMAN Follow-Up,7
+Admit Note,Abnormal Pap Test Follow Up,7
+Progress Note,APC -Initial Visit,7
+Progress Note,STI Express Visit,7
+Admit Note,Surgeon History and Physical,7
+Progress Note,MNT - Follow up,7
+Admit Note,SCHD Hearing Test,7
+Off-Service Note,LAB RESULTS,7
+Preoperative Clearance Form,BCCCP Visit,7
+Progress Note,BF-Well Child 9 Mth RPM,7
+Psychology,No Show WBO,7
+Psychology,PPN OutPatient Dr. Price,7
+Progress Note,BF-Well Child 6 Mth RPM,7
+Progress Note,BCCCP Only Visit,7
+Progress Note,Record of TB Screening,7
+Progress Note,FP - IUD Removal - WCHD,7
+Injection Note,Covid Vaccine,7
+MH Intake,zzNew Maternity Intake RN Only,7
+TB Notes,TB RN Visit Note,7
+Progress Note,Wilby Kurian,7
+Progress Note,Home Visit - Newborn - WCHD,7
+Progress Note,GERD,7
+TB Notes,TB Lab Only Visit,7
+Admit Note,Lab Order form,7
+MH Intake,z-MH Initial Provider PE.HCDPH,7
+Progress Note,Follow Up Note,7
+Progress Note,FP Male Exam,7
+Progress Note,BF - Well Child 2 1/2 Year NEW,7
+Surgery Note,HCM - HandP,7
+Progress Note,BF - Well Child 18 Month NEW,7
+Progress Note,FP - Nurse Interview,7
+Initial Psychology,Psych Eval Dr. Price,7
+Progress Note,BF - Well Child 9 Month NEW,7
+Admit Note,FP - Depo Injection - WCHD,7
+Progress Note,Well Child 1 month visit 2019,7
+Procedure,Jessica Right SIJ- meds,7
+Progress Note,BF - Well Child 15 Month NEW,7
+Progress Note,Head Injury,6
+Progress Note,APC-Well Male Exam ,6
+Family Planning,Transfer FP Patient,6
+Progress Note,Elbow Pain,6
+Progress Note,MNT ADULT VISIT,6
+Progress Note,Abnormal Menstrual Periods,6
+Progress Note,BH CCA 1 Nurse,6
+TB Follow Up,TB FLOW SHEET,6
+Telehealth,TelemedCH Sick Visit/Prob Note,6
+BCCCP Note,Follow-up Note,6
+Admit Note,SCHD FP Periodic Female Flow,6
+Off-Service Note,Discharge Summary MedSLP,6
+Progress Note,MH Home Visit - Newborn,6
+FP History ,FP Male Self Hx 4060F,6
+FP History ,FP 4060M - Male Health Hx SCHD,6
+Progress Note,Barton PC Annual Note,6
+Paraguard IUD,FP Paragard IUD Insert- LCHD,6
+Progress Note,DCHD - Hearing and Vision Form,6
+Well Child Check,CH Physical 12 Months Old,6
+Progress Note,CH - Bright Future Form Visit,6
+Progress Note,CH Initial History,6
+Admit Note,CCHD-Postpartum Visit,6
+BF NOTE,BF - Well Child 2 Month NCHD,6
+Phone Encounter,SCHD Nurses Note,6
+Progress Note,Skin Infections,6
+BH Note,BH Follow-Up,6
+Progress Note,zzAPC-Well Women Exam,6
+Phone Encounter,Lab Results,6
+Progress Note,Pregnancy Risk Screening Form,6
+Admit Note,Intake Assessment,6
+CCA Note,BH - CCA Note,6
+Progress Note,Medication request/refill,6
+CDL Physical,CCHD CDL Medical,6
+Phone Encounter,ED/Hospital Follow-up Note,6
+Combination Services,Lab Only,6
+Progress Note,Bite Insect,6
+Progress Note,Neuropathy,6
+Progress Note,ZZZ Lab Only,6
+Progress Note,SCHD FP Periodic Male Flow,6
+Progress Note,SCHD BF Well Child 18 Months,6
+Admit Note,Titers,6
+Progress Note,ZZZ CH Visit,6
+Progress Note,apc,6
+Progress Note,Dental Varnishing,6
+H&P Note,COVID Vaccination Note,6
+Progress Note,BF - Well Child 12 Month NEW,6
+Follow up,DCHD RESULTS,6
+Progress Note,"FC MBB L3/4,4/5,5/S1 B",6
+H&P Note,Kim - Note,6
+Progress Note,Lab Results - WCHD,6
+Progress Note,LEEP Note,6
+Progress Note,LTBI,6
+Progress Note,FC Ketamine Infusion,6
+Progress Note,CCHD Immunization Note,5
+Progress Note,TB X-Ray / Dx,5
+Progress Note,STD Screening,5
+TB Notes,TB Risk Assessment,5
+BCCP Follow Up,BCCCP-Breast Screening Data,5
+Progress Note,Constipation,5
+Admit Note,BF - WCC 2 year Visit,5
+BF 11 to 14 Year Visit,BF - 11-14 Years - Clay,5
+Admit Note,APC-Follow UP,5
+Progress Note,Group Counseling,5
+Procedure,Jessica Bilat knee- meds,5
+Progress Note,FP Male Flow 2814M SCHD,5
+Admit Note,2018 Cervical Screening Form,5
+Progress Note,Case Management,5
+Progress Note,ADHD,5
+Nurse Progress Note,DEV FP Supply TZ,5
+Progress Note,MH-Clinic Reschedule,5
+Admit Note,DLH-Procedure,5
+Progress Note,ADPH - New Component Note,5
+Admit Note,Well Child 6 Year Visit 2019,5
+Well Child Check,CH Physical 15 Months Old,5
+Progress Note,iPsychiatric/Therapy Prog note,5
+Progress Note,DCHD PP HOME VISIT,5
+Progress Note,Medicare Wellness Exam annual,5
+Progress Note,DCHD NEWBORN ASSESSMENT,5
+Admit Note,Asthma Exacerbation,5
+Admit Note,TB-LTBI Orders,5
+Phone Encounter,Appointment Reminder,5
+Progress Note,ZZZ Granville/Vance Test Note,5
+Progress Note,Maternal Health Ed. Sheet,5
+ST Eval,STD- LCHD,5
+H&P Note,'23 SHC New Pt Cervical w/ Exm,5
+Progress Note,BF - Well Child 2 Months,5
+VLab Report ,Bilat Upper Extr Arterial Dupl,5
+Provider Progress Note,DEV TB Provider Exam TZ SJ,5
+Admit Note,Well Child 1 month visit 2019,5
+Admit Note,SCHD STD Encounter - Form 2808,5
+H&P Note,'23 SHC New Pt - Knee w/ Exm,5
+Hepatitis C,HCV - Lab Review Visit,5
+Surgery Note,CP - Progress Note,5
+CH Well Child Check,CCHD CH WCC Part 2,5
+FP History ,FP Male,5
+TB Notes,DEV TB Observed Therapy TZ SJ,5
+VLab Report ,Rgt Upper Extre Venous Duplex ,5
+Progress Note,EHC Physcal Examination Report,5
+MH Intake,Behavioral Health Note,5
+Progress Note,Prenatal Vitamins Pick Up,5
+H&P Note,COVID Mass Immunization Note,5
+Primary Care,LPC-Glucometer Teaching-LCHD,5
+Progress Note,ELEVATED BLOOD LEAD,5
+Admit Note,Well child 5year Visit 2019,5
+Admit Note,Head Lice-DSS Case Visit,5
+VLab Report ,WBI with Digits ,5
+Well Baby,Well Baby 1 Month Exam,5
+General Note,CNM Counseling Note,5
+TB Epidemiology Record,TB DHHS 2810,5
+Physical Medicine & Rehab,Late Cancelation SK,5
+BCCCP Note,Phone Encounter,5
+Admit Note,FP MALE FLOW 2814M-NEW,5
+Admit Note,FLU Vaccination Note,5
+Progress Note,17P Makena Visit,5
+Progress Note,ID Lab,5
+Progress Note,HV for Postnatal Assessment,5
+Progress Note,Injection note,4
+Well Baby,Well Baby 18 Month Exam,4
+Progress Note,Gaffney Medical Patient,4
+Progress Note,DCHD - Employee Wellness Physi,4
+Progress Note,FP reproductive health Male,4
+Progress Note,Hope Note Example,4
+Progress Note,IMM 2 Year Cohort,4
+Admit Note,Treatment Plan,4
+Progress Note,TB Epi Record Combined MCHD,4
+Progress Note,Well Child 11-14 yr Visit 2019,4
+MD Progress,No Show SK,4
+Speech Assessment,Cognition RBANS,4
+Admit Note,ZZZPNR-Nurse,4
+Progress Note,Wrist Pain,4
+Progress Note,STI Encounter Form,4
+Well Baby,Well Baby 9 Month Exam,4
+Progress Note,CP - HandP,4
+Progress Note,Shingles,4
+WiseWoman,WW F/U LSP/HC DHHS 4050B- LCHD,4
+Phone Encounter,Follow-up Note,4
+Progress Note,RM - Progress Note,4
+Progress Note,CH-School entry assessment,4
+Admit Note,COVID Administration Note,4
+Well Child Check,CH Physical 9 Months Old,4
+Progress Note,BF - Well Child 4 Month NEW,4
+Progress Note,zzzMale Self-History Form,4
+Admit Note,JCBH- Initial Visit,4
+Progress Note,PAP ONLY,4
+Progress Note,Post Partum Follow Up Visit,4
+Nurse Progress Note,PCM Postnatal Assessment,4
+BH Note,DEV BH Initial Evaluation JO,4
+Progress Note,test OB LAbs,4
+Progress Note,Conjunctivitis,4
+Progress Note,Pharmacy Note,4
+TB Notes,TB Skin Test,4
+Phone Encounter,Case Mgmt Sample,4
+Admit Note,Well Child 2 1/2 Yr Visit 2019,4
+Admit Note,CCHD FP Problem Visit,4
+Admit Note,Well Child 3 Year Visit 2019,4
+Admit Note,Humana Practitioner Assessment,4
+Admit Note,ZChild 1stwk Vs 3-5days 2019,4
+Progress Note,WW Health Coaching Note 2018,4
+Progress Note,Sickle Cell,4
+MD Progress,Discharge Dr. K,4
+Progress Note,CD - Outreach Bloodwork,4
+Progress Note,zzGen Lab Results,4
+Combination Services,STD Encounter - Form 2808,4
+Progress Note,CH Repeat Vision/Hearing,4
+Progress Note,zzSexually Transmitted Dis,4
+Admit Note,HIV and Hepatitis C Testing,4
+Phone Encounter,-,4
+Progress Note,Hernia,4
+Progress Note,MH- Provider Maternal Flow,4
+MH RTC New Client,zzzz ACOG RECORD,4
+Progress Note,DEV HIV/CBT TZ,4
+Progress Note,Urine Drug Screen,4
+Admit Note,STD Treatment ONLY form,4
+TB Notes,DEV TB RN Care Note,4
+Procedure,FC Caudal Epidural,4
+Psychology,No Show SS,4
+Progress Note,BF- Well Child 4 yrs,4
+H&P Note,New Patient,4
+Progress Note,TytoCare CH Follow Up Note,4
+Progress Note,Travel Exam,4
+Progress Note,DEV HIV/STI Testing TZ,4
+Progress Note,MH - Incision Check,4
+Progress Note,Wellnes Program Follow Up,4
+MH Intake,zzzz ACOG RECORD,4
+Progress Note,"MNT, Adult, Initial-pchd",4
+Progress Note,FC LROOT Right L4 and S1,4
+Admit Note,CD - STD Test Results -HBsAb,4
+Progress Note,DEV FP Annual TZ,4
+Admit Note,SCHD WiseWoman Follow-up,4
+Progress Note,BF - Well Child 2 Year NEW,4
+Progress Note,Maternal Health New Admission,4
+Discharge,DISCHARGE SUMMARY Female Dr. C,4
+Progress Note,TB Skin Test Read,4
+Admit Note,ZZZZNew PN 2021,4
+Progress Note,Well Women Exam NCHD,4
+FP History ,ZFP Female Self HX-Flow NCHD,4
+Progress Note,HCV Bridge Counseling Session,4
+Progress Note,BP Check,4
+Progress Note,Lead Pregnancy Risk Q's,4
+Provider Progress Note,DEV FP IUD Insertion Note TZ,4
+Admit Note,ZZZZSCHD PN Return 2021,4
+TB Follow Up,TB EPI RECORD FOLLOW-UP,4
+Progress Note,WCC 7 Years-BF,4
+Admit Note,BF Problem Visit ,4
+Progress Note,ZZZSCHD TB Skin Test ,3
+Progress Note,Stye,3
+Procedure Note,TB - LTBI Order,3
+Progress Note,MH Education,3
+Progress Note,FP-PP Edinburgh,3
+Progress Note,Suture Removal  PS and Las,3
+Progress Note,Positive Preg Test Note - WCHD,3
+PT eval,Phone Encounter,3
+Admit Note,BF - WCC 9-10 yr visit,3
+Admit Note,Well Child 9 yr visit 2019,3
+Progress Note,MH History,3
+Procedure,Jessica Left SIJ- meds,3
+Progress Note,Pediatric Nutrition Flowsheet,3
+Progress Note,Therapy Established Patient,3
+Progress Note,FP Female Self HX-Flow Sheet,3
+Admit Note,Well Child 8 yr visit 2019,3
+Progress Note,Immunization-COVID19,3
+Progress Note,Pharmacy Testing Note,3
+Progress Note,Lab Results Call,3
+Procedure,Jessica Right Shoulder- Meds,3
+H&P Note,Harry - NP,3
+Admit Note,Employee VS for Crescent,3
+Admission Note,FP Nexplanon - IUD Check,3
+Progress Note,FP-Method Visit-Return,3
+Admit Note,ZZ BCCCP 2018 Cerv Screening,3
+Nurse Progress Note,PCM NB Assessment,3
+Progress Note,Snoring,3
+FP History ,ZZZSCHD FP Female Self HX Form,3
+Progress Note,SCHD MNT,3
+Admit Note,HUMANA ADULT SCREEN,3
+Admit Note,Disclosure Record,3
+Progress Note,Well Child 15-17yr Visit 2019,3
+Progress Note,Hematuria,3
+Admit Note,Prenatal MNT,3
+Admit Note,Pregnancy Test Note,3
+Admit Note,BF - WCC 1wk Vst 3-5days,3
+Nurse Progress Note,General Nurse Note,3
+BCCCP Follow Up,Phone Encounter,3
+Progress Note,FP - Initial/ Annual,3
+Progress Note,BF - Well Child 11-14 years,3
+Progress Note,REPAP-BCCCP,3
+Progress Note,Annual Wellness Visit,3
+Admit Note,Phone Encounter NCHD,3
+Progress Note,BF - Well Child 4mos,3
+Phone Encounter,Prescription Refill,3
+Progress Note,Head Lice/Nit Note,3
+Admin Note,Head Lice-DSS Case Visit,3
+Progress Note,EHC Respirator Users,3
+Progress Note,FP-Family Planning Diab Screen,3
+Progress Note,STI Screening Visit,3
+Progress Note,Est Pt-Ex/Evl w/ Trmt,3
+Progress Note,zzHigh Risk SW Assessment ,3
+Procedure,Jessica Right Knee-Meds,3
+FP Hx,Phone Encounter,3
+TB Follow Up,TB SKIN TEST READING,3
+Progress Note,IM Adult Atchi,3
+Allergy Shot,CCHD Allergy Immunotherapy Log,3
+Admit Note,CC-BLANK STARTER NOTE,3
+Progress Note,EHC Employee Respirator Eval,3
+Phone Encounter,MedSouth,3
+Admit Note,Child 1stwk Visit 3-5days 2019,3
+FP History ,FP 4060F - Female New Note,3
+Progress Note,HIV and Hepatitis C Testing,3
+Admit Note,SCHD WiseWoman Visit,3
+Encounter Note,LCHD 11-14yr BF Well Child,3
+Progress Note,zzzz ACOG RECORD,3
+Progress Note,GDM Postpartum Testing,3
+Encounter Note,LCHD 15-17yr BF Well Child,3
+Admin Note,CD Encounter -HCDPH,3
+Consultation Report,-,3
+Phone Encounter,BCCCP-Breast Screening Data 23,3
+Combination Services,Pregnancy Test RPM,3
+Progress Note,FP Male Problem Visit,3
+Progress Note,zzzFP Female Flow 2814F,3
+Progress Note,ARHS SU Training 2018,3
+Combination Services,FP Follow-Up RPM,3
+Progress Note,SCHD BF Well Child 12 Months,3
+Off-Service Note,apc,3
+Child Health,Dental Varnish,3
+Phone Encounter,Brad f/u female,3
+Employee Vitals for Crescent Rebate,Employee VS for Crescent,3
+Progress Note,New Maternity Intake - RN Only,3
+Progress Note,GYN Nurses Check,3
+Progress Note,Lab/Procedure Only- LCHD,3
+Admit Note,TB - PPD skin test only,3
+Diagnostic Test,Walk Test 6 M Walk,3
+H&P Note,FP - IUD Removal,3
+Admit Note,TB Skin Test Reading,3
+Admit Note,DEV TB Results Follow Up,3
+Progress Note,TB Screening - Shortage,3
+Discharge,DISCHARGE SUMMARY Male Dr. C,3
+Admit Note,Flu,3
+H&P Note,nc New Patient,3
+TB,TB DOT,3
+Progress Note,DCHD FP IUD/IMPLANT,3
+E M Visit Established Patient,'23 SHC Comb'd Proc Trmt,3
+Progress Note,Mammogram Follow-Up,3
+Nurse Admin ,Phone Encounter,3
+Progress Note,BCCCP Telephone Intake,3
+Admit Note,CCHD FP-Pregnancy Test 4140,3
+Phone Encounter,CC - Phone Note,3
+Progress Note,CC-OMH Return Visit,3
+Progress Note,Test ACOG Note,3
+VLab Report ,Left Upper Extem Venous Duplex,3
+Phone Encounter,Case Management - phone,3
+Psychology,Late Cancelation DA,3
+TB Epidemiology Record,TB Nurse Note,3
+Preoperative Clearance Form,BCCCP-Breast Screening Data,3
+TB Screening Questionnaire,PPD Shortage Screening,3
+CH Visit ,Home Visit - Child Health ,3
+Progress Note,FP Male Physical Exam,3
+PHQ,PHQ-9,3
+Admit Note,Well Child 4 year Visit 2019,3
+Progress Note,Allergy Testing,3
+Progress Note,Family Planning Postpartum F/U,3
+Progress Note,MH Pregnancy Home Risk - HC,3
+FP History ,FP 4060M - Male Health Hx NCHD,3
+General Note,Telephone Triage,3
+Speech Assessment,FEES,3
+BCCCP Note,Phone Encounter2,3
+Admit Note,Well Child 2 Year Visit 2019,3
+Progress Note,Depression New Diagnosis,3
+H&P Note,'23 SHC Comb'd Proc Trmt,3
+Home Visit,Home Visit - Newborn,3
+H&P Note,IUD Removal,3
+Progress Note,MH-New Maternity-GVPH,3
+Progress Note,BH - COUNSELOR Return,3
+Well Baby,Well Baby 2 Week Exam,3
+Progress Note,TB Epi Record Pt1 NCHD,3
+Off-Service Note,Lab Only,3
+Child Health,CH-BF Well Child 18 Mths- LCHD,3
+TB Flow Sheet,TB Monitoring Flow Sheet- LCHD,3
+Progress Note,MH-Incision Check,3
+Provider Progress Note,TB Provider Exam,3
+Progress Note,CCHD Record of TB Screening,3
+Progress Note,BF - Well Child 3 to 5 Days,3
+Progress Note,justin Test,2
+Admit Note,ZZPregnancy Test,2
+Procedure,Jessica Right SIJ- no meds,2
+Admit Note,a CPC Return Patient Note,2
+CH Sick Exam,BF Problem Visit,2
+Progress Note,Zz IUD Check,2
+Progress Note,ZZZZZZZZNew Maternity,2
+Admit Note,POSSE ,2
+Progress Note,WIC Assessment,2
+Admit Note,OS - TST Read,2
+Progress Note,Asthma Exacerbation,2
+Progress Note,BC STD Encounter - Form 2808,2
+Admit Note,Nephrology Clinic Note,2
+Admit Note,Meridian Intake,2
+Progress Note,BCCCP General Note,2
+Progress Note,BF-Well Child 2 MonthRPM,2
+Progress Note,BF - Well Child 1 Month NEW,2
+Progress Note,BF-Well Child 1 Month RPM,2
+Admit Note,MH Sick Note,2
+Progress Note,BF - Well Child 2 Month NEW,2
+Progress Note,Women's Health Physical Exam,2
+Admit Note,Kindergarten Physical,2
+Admit Note,Jills PT Draft,2
+Progress Note,Z-FP Male Flow 2814M,2
+Progress Note,ZBCCCP-Cervical Screen Data,2
+Progress Note,BF Well Child 2.5 year,2
+Admit Note,Intake 2,2
+Admit Note,IUD Removal RPM,2
+Admit Note,FP Female Flow 2814F NCHD,2
+Admit Note,GCHD Test ,2
+Progress Note,WCC 9 Years-BF,2
+Progress Note,WCC 12 Months- BF,2
+Progress Note,WASH - Weight Check,2
+Admit Note,VFC Screening Questionnaire,2
+Procedure Note,Progress Note,2
+Admit Note,CP Patient Visit,2
+Procedure Note,TB Medications,2
+Progress Note,TB Clinician Treatment,2
+Progress Note,CD Lab Follow Up - HCDPH,2
+Progress Note,CCHD PN Established,2
+Progress Note,TB FINAL ASSESSMENT-ADULT,2
+Progress Note,ZZZ New Maternity,2
+Progress Note,Breast Pain,2
+Progress Note,ZZZ Lab Results,2
+Admit Note,Test,2
+Admit Note,Contact Note Response,2
+Progress Note,TB SKIN TEST READING,2
+Admit Note,TB - PPD reading,2
+Admit Note,STD Treatment Encounter,2
+Admit Note,SCHD BBP Exposure Note,2
+Progress Note,ZZFP-Pregnancy Test 4140,2
+Progress Note,Adult Health Screening,2
+Progress Note,Test of Cure,2
+Progress Note,Thrush,2
+Well Child Check,CH Physical 6 Months Old,2
+Progress Note,Tremor,2
+Progress Note,CH-Repeat Vision/Hearing,2
+test,Connor ROS/PE Test,2
+Progress Note,Diabetes 1,2
+Progress Note,DEV BCCCP Follow-Up TZ,2
+Progress Note,DEV BCCCP Pt Navigation Only,2
+Provider Progress Note,DEV FP EC Visit tz,2
+Progress Note,Maternal Health History,2
+TB Follow Up,TB EPI RECORD,2
+H&P Note,OFFICE VISIT NEW PT su,2
+TB Notes,DEV TB Risk Assessment TZ,2
+Encounter Note,LCHD 3yr BF Well Child,2
+Progress Note,MNT note-Adult,2
+Encounter Note,LCHD 5yr BF Well Child,2
+Encounter Note,LCHD 6yr BF Well Child,2
+Encounter Note,LCHD 7-8yr BF Well Child,2
+Progress Note,DEV Pharmacy Note TZ,2
+Progress Note,DEV TB Observed Therapy TZ SJ,2
+Progress Note,DEV TB Skin Test tz,2
+Encounter Note,LCHD BCCCP Annual/Initial,2
+Encounter Note,LCHD FP IUD/Implant,2
+Provider Progress Note,PrEP Provider Visit,2
+Progress Note,Gyn Abdominal Pain,2
+Progress Note,DEV BCCCP Cert. In Office TZ,2
+FP History ,FP - Female Self Hx - WCHD,2
+Progress Note,FP IUD INSERTION,2
+Consultation Report,CP - Progress Note,2
+Progress Note,Neck Mass,2
+Admit Note,Adult Health Visit,2
+Progress Note,NCR,2
+Progress Note,"FC RF C3/4,4/5,5/6 B",2
+Progress Note,Myalgia,2
+Progress Note,Monoclonal Antibody,2
+Progress Note,"zzzzzzMNT, Adult, follow-up",2
+Consultation Report,a CPC New Patient,2
+Progress Note,FP IUD Removal,2
+Consultation Report,a CPC Return Patient Note,2
+Progress Note,Mens Health FP Annual,2
+Phone Encounter,Adult Health,2
+Progress Note,Groin Pain,2
+Diabetic Education,Diabetic Education - Post Labs,2
+Phone Encounter,APC - Sick/Physical Visit Note,2
+Diagnostic Test,Stress Echocardiogram,2
+Speech Assessment,Motor Speech Evaluation,2
+Progress Note,MH- Home Visit - Newborn,2
+Consultation Report,CC - Progress Note,2
+Progress Note,EPDS NCHD,2
+Nurses Note,Adult Sick/Physical Visit NCHD,2
+Progress Note,Ingrown Toenail,2
+H&P Note,-Knee Brace Proof of Delivery,2
+TB Template,Phone Encounter,2
+Risk Assessment,ADPH FP Risk Assessment Tool,2
+Family Planning,Sarah Test Template,2
+TB Progress Note,TB Skin Test,2
+Admit Note,BF- Well Child 7-8yrs,2
+Admit Note,BF - WCC 3 year Visit,2
+Family Planning Annual Visit,FP-Male Annual Visit-LCHD,2
+General Note,Phone Encounter,2
+Progress Note,FC SI INJECTION B,2
+Progress Note,Jessica- pill count,2
+H&P Note,'23 SHC H-P New Pt Cons-Eval,2
+Nurses Note,Phone Encounter NCHD,2
+Admit Note,BF - WCC 2 month visit,2
+Progress Note,Kidney Stones,2
+STD Note,Phone Encounter,2
+Progress Note,EPDS,2
+Speech Assessment,CSE and Motor Speech,2
+Progress Note,MCR Annual Wellness Visit,2
+Speech Assessment,CSE HNC,2
+Admit Note,BF - WCC 12 month visit,2
+Progress Note,MH Maternal Health History,2
+Nurse Progress Note,DEV PCM Post Natal Assess TZ,2
+Telehealth,Nutritional Counseling MNT,2
+Telehealth,Hospital Follow Up,2
+H&P Note,FP - IUD Insertion,2
+Progress Note,MH - MNT,2
+Psychology Assessment,Psych- Feedback Note,2
+Nurse Progress Note,FP Emergency Contraception,2
+H&P Note,Emergency Contraception,2
+Progress Note,Immigration Exam,2
+Progress Note,MH  MNT,2
+SW Note,HB Postpartum Assessment,2
+H&P Note,Annual Wellness Visit,2
+SW Note,HB Discharge Record,2
+Psychology Assessment,Psych-Contact Note,2
+TB Follow Up,MEDICATION ENCOUNTER,2
+Progress Note,KR Test,2
+Insulin Pick Up,General Nurse Note,2
+Letter,Blank Letterhead,2
+Progress Note,zzMH History Pt A/B - HC,2
+Progress Note,Red Mountain Office Visit,2
+BF 15 Month Visit,BF - 15 Month Visit - Clay,2
+Admit Note,CD - Blank,2
+TB Epi,TB Epidemiological- Provider,2
+BH Office Visit,BH Suicide Risk,2
+MH FLOW,Phone Encounter,2
+Progress Note,zzMat-HR Social Work Assess,2
+MH Intake,MESH FQHC,2
+Primary Care,Phone Encounter,2
+Admit Note,BF - WCC 7 year Visit,2
+BCCCP,Primary Care Visit,2
+Progress Note,Phone Triage GVPH,2
+Admit Note,CD - TB Screening,2
+MH Intake,ACOG RECORD,2
+Intake Note,Intake Note,2
+Progress Note,Pregnancy Diagnosis,2
+Progress Note,zzLabor and Delivery,2
+BH Note,BH Initial Evaluation,2
+Progress Note,"zzAdult Wellness Hx, ROS",2
+VLab Report ,Rgt Uppr Extre Arterial Duplex,2
+BF NOTE,CH - Bright Future Form Visit,2
+Progress Note,zzCH -Child Health Questionnai,2
+Admit Note,CCHD PP Gestational Diabetes,2
+Phone Encounter,ZZ-Brief Note - CoCM,2
+Progress Note,Prostatitis,2
+Progress Note,Psych Assessment,2
+Phone Encounter,Prescription,2
+Progress Note,zzGen Lab Only,2
+Progress Note,RCPH FP Male Limited Visit,2
+L & D Note,MH - 5 Labor and Delivery Note,2
+Progress Note,Phone Encounter Dr.Hamad,2
+Progress Note,RCPH Pregnancy Checklist,2
+Progress Note,zzNew Maternity Intake RN Only,2
+Progress Note,Cellulitis,2
+Adult Health,CC-OMH Return Visit,2
+Child Health,CH-BF Well Child 12 Months,2
+H&P Note,z Test template,2
+Progress Note,Orthopedic - Flow Sheet,2
+Progress Note,GC - Lab Only,2
+Child Health,CH-BF Well Child 2 Month,2
+Progress Note,OBCM Note,2
+Procedure,Jessica Right Knee- No Meds,2
+H&P Note,Tobacco Cessation Assessment,2
+H&P Note,Tett1,2
+Progress Note,z-FP Female Self Hx - 4060F,2
+VLab Report ,CVS Office Note,2
+Combination Services,Phone Encounter,2
+Progress Note,Covid Screening,2
+Admit Note,BF - WCC 4 year Visit,2
+Progress Note,zzz-TB Epi F/U Pt2,2
+Procedure,Jessica Left knee- meds,2
+CH History,CH History Update,2
+TB Epidemiology Record,TB Epidemiological Record Pt2,2
+Progress Note,zzNexplanon Removal,2
+Progress Note,zzSR WIC,2
+Progress Note,FP Male Treatment Visit,2
+Procedure,Jessica Bilat Knee - No Meds,2
+Procedure,Jessica Left Shoulder- meds,2
+Behavior Health,Psych-Contact Note,2
+Progress Note,FP Male Physical Form,2
+Progress Note,Palpitations,2
+Behavioral Health Services Screen,CCHD Behav. Health Serv. Scree,2
+Admit Note,BF - WCC 9 month visit,2
+STD Note,CD Visit-Testing and Screening,1
+Admit Note,DOT Exam,1
+TB Epidemiology Record,TB Client Search,1
+test,Annual Visit,1
+STD Note,STI Testing Form TEST,1
+TB Epidemiology Record,DEV TB Risk Assessment TZ,1
+Admit Note,EHC Statement to Employee,1
+TB Notes,TB Inbound Call,1
+Admit Note,FP-EC Nurse Treatment Only,1
+SW Note,HB Pregnant Service Log,1
+TB,Drop In,1
+Surgical Note,Phone Encounter Dr.Malik,1
+TB,TB Epi F/U Pt2,1
+TB,TB Epidemiological- Nurse,1
+TB,TB Epidemiological- Provider,1
+Surgery Note,Surgery - Hernia,1
+TB,TB Monitoring Flow Sheet- LCHD,1
+TB Epidemiology Record,TB Monthly LTBI Med Pickups,1
+Admit Note,BF - WCC 8 yr visit,1
+Surgery Note,CP - HandP,1
+TB Epi,TB Drug Record,1
+mat,MH New OB Interview RPM,1
+Speech Language Therapy,Misc Note,1
+Speech Assessment,SOAP,1
+TB Notes,TB Client Search,1
+TB Notes,TB Epidemiological Record,1
+Speech Assessment,Language / Motor Speech Eval,1
+Womens Health Exam,CCHD Women's Health Exam,1
+Speech Assessment,Cognition ABCD2,1
+Admit Note,BF - WCC 6 Year Visit,1
+Admit Note,Deposition Billing,1
+Admit Note,BF - WCC 6 Month Visit,1
+School Physical Exam,FP 4060M - Male Health Hx,1
+Admit Note,EHC Physcal Examination Report,1
+Progress Note,test Note,1
+Admit Note,DEV Refugee Visit,1
+SSP,JCH Provider Note,1
+Admit Note,CPC OUD New patient note,1
+Progress Note,zzWIC KW,1
+Progress Note,ZZZ WIC Assessment,1
+Progress Note,zzkw maternity note,1
+Progress Note,zzz FP 4060F -  Health Hx BCHD,1
+Admit Note,ACUTE CARE VISIT.HCDPH,1
+Admit Note,AFP Only,1
+Progress Note,zzzCCNC SP,1
+Admit Note,CCHD PN Nurse Intake and US,1
+Admit Note,CCHD Hepatitis C Initial Visit,1
+VLab Report ,Carotid Duplex Demo,1
+Admit Note,CCHD FP MALE ANNUAL/NEW,1
+Admit Note,ASA Patient Progress Note,1
+Progress Note,zzzMH-Provider Maternal Flow,1
+Progress Note,zzzNew Maternity Update,1
+Progress Note,zzzzzBF-Well Child 11-14yrs,1
+Progress Note,zzzzzFP Annual / PP Visit,1
+Progress Note,ZZZ-PC-Well Women Exam,1
+Progress Note,zzMH-Prenatal MNT,1
+Admission Note,FP IUD Removal,1
+Progress Note,zzAdult Care Clinic,1
+Admit Note,CO - C-19 Pfz Vaccine-2ND DOSE,1
+Admit Note,CH Bright Future 9 Month Visit,1
+Admit Note,CH -Child Health Questionnaire,1
+Progress Note,zBCCCP-Cervical Screen Data,1
+Progress Note,zNexplanon Insertion,1
+Admit Note,CD - STD Test Results,1
+Progress Note,zz-Positive Pregnancy ,1
+Progress Note,a CPC New Patient,1
+Progress Note,zzMH-Moderate High Risk Referr,1
+VLab Report ,Splenic,1
+Progress Note,ZZZZ TB Epi Record,1
+Progress Note,zzMH Education - HC,1
+Progress Note,zzMH Lead Risk Q's- HC,1
+Admin Note,Lab Only,1
+Progress Note,ZZZFP Female Flow 2814F,1
+Admit Note,CP Vaccine Home Visit Draft,1
+Progress Note,zzzzzzBF-Well Child 18 Months,1
+Progress Note,ZZZ CH - Initial Health Quest.,1
+Admin Note,BH Phone Note,1
+Progress Note,ZPositive Pregnancy Test Note,1
+Admit Note,Blood Lead Note,1
+Progress Note,ZSexually Transmitted Diseases,1
+TB questionaire,TB Screening Form ,1
+Admit Note,Chris Note Test ,1
+Admit Note,BF - WCC 15-17yr Visit,1
+Progress Note,ZSCHD Home Visit - Postnatal,1
+Progress Note,ZSCHD Home Visit - Newborn,1
+Progress Note,ZMaternal Initial Physical Exa,1
+Psychology,PPN Dr. Schara,1
+Admit Note,BF - WCC 18 month visit,1
+ReEvaluation,'23 SHC Neuro Re-Eval - Trmts,1
+Progress Note,ZMNT,1
+TB Template,TB Skin Test,1
+TB Skin Test,Imm-TST,1
+Admit Note,Custom Form Data Check,1
+Admit Note,DEV MCPH Note Template Style,1
+Telehealth,Covid 19,1
+Admit Note,BF - WCC 15 month visit,1
+Well Child Check,CH Physical 18 Months Old,1
+Unable to reach,Phone Encounter,1
+Well Child Check,CH Physical 2 Months Old,1
+Provider Progress Note,DEV BCCCP Provider Visit TZ,1
+Provider Progress Note,DEV FP Provider Female Annual,1
+Progress Note,ZZZ - FP-IUD Check,1
+Provider Progress Note,DEV IUD Removal TZ,1
+Admit Note,BCCCP Patient Navigation CNACP,1
+Unable to reach,Test,1
+Admit Note,BF - WCC 1 month visit,1
+Progress Note,ZZ-Carrboro Family Medicine,1
+Progress Note,ZZModerate High Risk Referral,1
+Progress Note,wolfe,1
+Well Child Check,CH Physical 4 Months Old,1
+Admit Note,BF - WCC 11-14yr Visit,1
+Progress Note,ZZInfluenza Vaccine Form GHA,1
+Psychology,No Show BP,1
+Progress Note,ZZ-FP Female Flow 2814F,1
+Admit Note,BF - WCC 4 month Visit,1
+Progress Note,BF 3 YO Visit,1
+Admit Note,Gestational Diabetes Note,1
+Progress Note,FP FAMILY PLANNING PROBLEM,1
+Maternity Visit,zMH- Flow Sheet,1
+Maternity Visit,APC - Sick Visit Note,1
+Maternal Health Education,Maternal Health Education,1
+Maternal,Nurses Note,1
+MH RTC Return Client,ZZZZZZZZNew Maternity,1
+MH RTC Return Client,ZZZMaternal Return Note,1
+MH RTC New Client,New Maternity Intake - RN Only,1
+MH Note,Phone Encounter,1
+MH Note,Medical Nutrition Therapy,1
+MH Note,Lab Visit,1
+MH Intake,zACOG- New Maternity,1
+MH Intake,Progress Note,1
+Progress Note,FP Male Flow 2020 MCHD,1
+MH Intake,OLD ACOG Maternity,1
+MH Intake,New  ACOG MH 2023,1
+MH Intake,ACOG Maternity-KC,1
+MH  Education,z-MH Maternal Health Education,1
+Progress Note,FP Removal/Reinsert,1
+Progress Note,FP Reproductive Health Male,1
+Medical,EMG Eval,1
+Progress Note,FP Eval - Telemedicine,1
+MD Progress,Chart Note Dr. K,1
+Method Visit,AH Primary Care Visit,1
+Off-Service Note,CC4C Note,1
+OT Eval,Phone Encounter,1
+OB Lsb Results,Phone Encounter,1
+OB Lsb Results,Lab Results,1
+Progress Note,Edinburgh,1
+Nutritional Note,MH Nutrional Plan NCHD,1
+Progress Note,FAVILA,1
+Progress Note,FC LROOT Left L4 and S1,1
+Progress Note,FC SI INJECTION R,1
+Progress Note,FC Stellate Ganglion,1
+Progress Note,FC Trigger Point Inject,1
+Progress Note,FC ischial.bursa.right.,1
+Nurse Progress Note,FP Pregnancy Test,1
+Nurse Progress Note,DEV TB Risk Assessment TZ,1
+Nurse Progress Note,DEV PCM NB Assess TZ,1
+Nurse Progress Note,DEV FP EC Visit tz,1
+Nurse Admin ,CO - C-19 Mod Vaccine Bivalent,1
+Progress Note,FP 4060F - Female HX CHS,1
+Nerve Conduction Study,Consultation Note 1,1
+Progress Note,FP Revisit,1
+Lab Results,Phone Encounter,1
+Admit Note,Hepatitis Medical Information,1
+H&P Note,PrEP Initial,1
+H&P Note,Podiatry Note,1
+H&P Note,Podiatry ,1
+Progress Note,HIV ST Post Test Counselling,1
+Progress Note,HV for Newborn Assessment,1
+Progress Note,HWC - Blank Note,1
+H&P Note,Neurological Exam1,1
+H&P Note,Medical Clearance Note,1
+H&P Note,Male Self-History Form,1
+H&P Note,MH FETAL NON-STRESS TEST,1
+H&P Note,MCM 003 Intake Exam v14.2,1
+Progress Note,Hepatitis Encounter,1
+Progress Note,HoCo Colorectal Cancer Screen,1
+Progress Note,HoCo Core Demographic,1
+Progress Note,Home Visit - Newborn NCHD,1
+Progress Note,Home Visit - Postnatal NCHD,1
+H&P Note,Initial Devi,1
+H&P Note,Immunization Order,1
+Progress Note,ID Clinic Initial Visit,1
+H&P Note,H-P New Pt Cons-Eval,1
+Progress Note,Group PLC Tx,1
+Progress Note,Generalized Anxiety Disorder 7,1
+Lab Only,Test Results- LCHD,1
+H&P Note,Sore Throat - R,1
+Lab Note,Lab Only,1
+Interval Psycosocial Screening & Results,Maternal Hx Pt. C-2,1
+Intake Note,Intake 2,1
+Insulin Pick Up,Phone Encounter,1
+Progress Note,FP-Male Flow Sheet,1
+Progress Note,FP-Male PE Sheet,1
+Insert Text,CP - Procedure Note,1
+Insert Text,CP - HandP,1
+Injection Note,SCHD Medication Encounter,1
+Injection Note,Injection note,1
+Injection Note,Immunization Note,1
+Injection Note,Follow Up,1
+Progress Note,Flu Vaccine Note,1
+Initial Evaluation,PT eval Mike,1
+Initial Diagnosis,SOAP,1
+Progress Note,GC - Lab Results,1
+Progress Note,Gastroenteritis,1
+H&P Note,TB Epidemiological Record,1
+H&P Note,Surgery Pre-Op History and Physical,1
+Progress Note,EHE PrEP Follow-Up,1
+Off-Service Note,COVIDResult,1
+Off-Service Note,CVS MD Note,1
+Progress Note,Barton STD Treatment Record,1
+Progress Note,Behavioral Health Note,1
+Progress Note,AFP Only,1
+Progress Note,Breast Lump,1
+Progress Note,ADMIN NOTE,1
+Progress Note,CC4C Note,1
+Progress Note,ACOG- New Maternity,1
+Progress Note,ACOG RECORD,1
+Progress Note,5 P's of Substance Abuse Sp.,1
+Progress Note,CD-HIV Report,1
+Procedure Note,Immunization Note,1
+Procedure Note,FP IUD Procedure,1
+Progress Note,CH Problem Combo Visit,1
+Procedure,Kim CESI,1
+Procedure,Jessica TPI- No meds,1
+Prenatal Care Plan,Phone Encounter,1
+Prenatal Care Plan,COVID Results,1
+PrEP,PrEP Follow-up Visit,1
+Physical Therapy,PT Progress Note,1
+Phone Encounter,TB Monthly LTBI Med Pickups,1
+Progress Note,AH-Pregnancy Test Form,1
+Progress Note,APC BCCCP/WW Nurse Visit,1
+Progress Note,"Diarrhea, Chronic",1
+Progress Note,APC Medication Sheet,1
+Progress Note,BF - Well Child 7-8 years,1
+Progress Note,BF - Well Child 5 Years,1
+Progress Note,BF - Well Child 4 years,1
+Progress Note,BF - Well Child 2 years,1
+Progress Note,BF -  Well Child 15-17 Years,1
+Progress Note,BCCCP-Breast Reporting Data,1
+Progress Note,BCCCP Cervical Entry Form 2018,1
+Progress Note,BCCCP 6 month F/U visit,1
+Progress Note,Aorta Duplex EVAR,1
+Progress Note,Animal Bite,1
+Progress Note,Anemia New Diagnosis,1
+Progress Note,Allergic Rhinitis Follow up,1
+Progress Note,Advanced,1
+Progress Note,BFTK PROBLEM VISIT 2019,1
+Progress Note,BH Progress Note,1
+Progress Note,APC-Well Male Exam BCHD,1
+Progress Note,BREAST EXAM,1
+Progress Note,BS,1
+Progress Note,APC Nurse Screening,1
+Phone Encounter,TB Medications,1
+Phone Encounter,SCHD A Blank SOAP NOTE,1
+Phone Encounter,PC - Est Pedi Office Visit,1
+Phone Encounter,Nurses Note,1
+Phone Encounter,BCCCP-Cervical Screen Data 23,1
+Progress Note,Covid-19 Testing Form,1
+Progress Note,CureMD Test,1
+Progress Note,DCHD - CC4C Referral Form,1
+Phone Encounter,BCCCP Visit WCHD,1
+Phone Encounter,Allergy Note,1
+Phone Encounter,ASA Patient Progress Note,1
+Progress Note,DEV BCCCP External Referral TZ,1
+Progress Note,DEV BCCCP Provider Visit TZ,1
+Progress Note,DEV HIV/STI Post Test TZ,1
+Progress Note,DLH-Procedure,1
+Progress Note,DME Brace,1
+Progress Note,DNU BF 4 Mon,1
+Progress Note,DP,1
+Off-Service Note,Maternal Flow,1
+Off-Service Note,FP FAMILY PLANNING PROBLEM,1
+Off-Service Note,Discharge Summary MedSLP VOICE,1
+Progress Note,Diabetic Teaching-FHD,1
+Progress Note,Diaper Rash,1
+Phone Encounter,BH Progress Note - Peds,1
+Progress Note,Contraceptive Management,1
+Phone Encounter,CD,1
+Phone Encounter,FP Supply VIsit,1
+Phone Encounter,Nurse Triage,1
+Phone Encounter,Nurse Note,1
+Phone Encounter,New Patient,1
+Phone Encounter,LAB RESULTS,1
+Phone Encounter,ID SW CLINIC,1
+Phone Encounter,General Telephone Message,1
+Phone Encounter,Gaffney Medical Patient,1
+Phone Encounter,Follow Up,1
+Phone Encounter,Diabetes Note,1
+Progress Note,Condom Visit,1
+Phone Encounter,Counseling Note,1
+Phone Encounter,Contact Note Response,1
+Progress Note,Chris Note Test ,1
+Progress Note,Chronic Kidney Disease,1
+Phone Encounter,CP - Progress Note,1
+Progress Note,Closing Summary,1
+Phone Encounter,CH Visit,1
+Phone Encounter,CD - STD Exam and Tx,1
+H&P Note,Follow Up,1
+H&P Note,FP Female Exam,1
+H&P Note,FP - IUD check,1
+Adult Health,CC-OMH Initial Visit,1
+Admit Note,zzzOBOT-APC-WELL MALE EXAM-NEW,1
+Progress Note,SHC - Quick Visit,1
+Progress Note,SI Joint,1
+Progress Note,ST-Treatment,1
+Admit Note,zz test,1
+Admit Note,ZZZ-FP - Prescription note,1
+Admit Note,ZZZ SCHD BBP Exposure Note,1
+Admit Note,ZWell Child 2/h Year V 2019,1
+Admit Note,ZWell Child 1 month visit 2019,1
+Admit Note,ZSCHD COVID Testing Note,1
+Admit Note,ZBFTK PROBLEM VISIT 2019,1
+Admit Note,Z-STD Encounter - Form 2808,1
+Progress Note,Staple Removal,1
+Admit Note,Z-Child Visit 3-5days 2019,1
+Admit Note,Well child 4month Visit 2019,1
+Admit Note,Well child 2month visit 2019,1
+Admit Note,Well Child 9 /10 yr visit 2019,1
+Progress Note,TB EPI RECORD PT 2 F/U,1
+Admit Note,Well Child 7/8 year Visit 2019,1
+Admit Note,zzzzOBOT-APC-WELL WOMAN EXAM,1
+Adult Health,Phone Encounter,1
+BH Note,BH Coaching,1
+Adult Health ,Nurses Note,1
+BH  Case Manager Visit,zzBH - Case Manager ,1
+Progress Note,PrimCare - School PE,1
+Progress Note,Psychiatric Evaluation,1
+Progress Note,RCPH FP Male Flow 2814M,1
+Progress Note,RCPH Nexplanon Removal,1
+Progress Note,RCPH Phone Encounter,1
+BF 3 Year Visit,BF - 3 Year Visit - Clay,1
+BF 18 Month Visit,BF - 18 Month Visit - Clay,1
+Progress Note,RSMC  ART 020 Cycle Sheet,1
+BF 15 to 21 Year Visit,BF - 15-21 Year Visit - Clay,1
+Progress Note,Return OB - Flow Note,1
+Progress Note,SA Assessment,1
+Progress Note,SCHD A Blank SOAP NOTE,1
+Progress Note,SCHD BF Well Child 2 1/2 years,1
+Progress Note,SCHD BF Well Child 2 Month,1
+BCCCP Note,Blank Note,1
+BCCCP Follow Up,BCCCP-Cervical Screen Data,1
+BCCCP,Phone Encounter,1
+Adult Physical,CCHD Pre-employment Physical,1
+Admit Note,Well Child 6 Month Visit 2019,1
+Progress Note,TB FINAL ASSESSMENT-CHILD,1
+Admit Note,WYA 18 through 21yr Vst 2019,1
+Admit Note,WBF - WCC 10 yr visit 2019,1
+Admit Note,Pill count,1
+Progress Note,WCC 15 Months-BF,1
+Progress Note,WCC 3 Years- BF,1
+Progress Note,WCC 8 Years-BF,1
+Admit Note,OBCM Encounter Note,1
+Admit Note,New Maternity - Parts A-D,1
+Admit Note,Maternal New Admission,1
+Progress Note,Well Child 2 month visit 2019,1
+Progress Note,Well Child 2year Visit 2019,1
+Admit Note,MH New Maternity Provider,1
+Progress Note,Wiliam Galloway,1
+Admit Note,MEDICATION REFILL ONLY,1
+Progress Note,Wise Woman Visit,1
+Admit Note,Lab Only-RPM Employee/Family,1
+Progress Note,ZBCCCP-Breast Screening Data,1
+Progress Note,ZBF - CH Visit,1
+Admit Note,Infant Assessment 0-12 months,1
+Admit Note,ID Clinic,1
+Admit Note,Home Visit,1
+Progress Note,Visual Changes,1
+Progress Note,Urinary Incontinence,1
+Admit Note,Psych Intake 2,1
+Admit Note,SCHD BF Well Child 18 Months,1
+Admit Note,WASH - Refill Request Note,1
+Admit Note,Test Note Template,1
+Admit Note,Test Note,1
+Admit Note,TEST123,1
+Admit Note,TB Skin Test,1
+Admit Note,STI Screening Note,1
+Admit Note,STI Form 2808,1
+Admit Note,SCHD FP Limited Visit,1
+Progress Note,Test FP Flow,1
+Admit Note,Psych Intake Note,1
+Progress Note,Test Note,1
+Progress Note,Test Results- LCHD,1
+Progress Note,Test Template -VMS,1
+Progress Note,Test Template to be Used,1
+Admit Note,SCHD AH Visit Form,1
+Progress Note,Tuberculosis Epidemiological Record,1
+Admit Note,Random Drug Test,1
+Admit Note,Psych-Assessment Note,1
+Progress Note,Prenatal MNT,1
+BH Note,DEV BHP Follow-Up,1
+H&P Note,Cardiovascular Consultation Report,1
+Family Planning,FP Mirena IUD Insertion- LCHD,1
+Family Planning,FP Depo/Supply Visit,1
+Family Planning,FP Contraceptive Visit- LCHD,1
+FP Supply or Problem,Nexplanon Removal,1
+Progress Note,MH - Maternity Return,1
+FP Hx,Follow-up Note,1
+Progress Note,MH - Pregnancy Home Risk Form,1
+FP History ,FP- Female Flow 2814F /HX RPM,1
+Progress Note,MH Lead Risk Assess SCHD,1
+FP History ,FP Initial History Form,1
+FP History ,FP Female Flow 2814F,1
+Progress Note,MH Psychosocial Risk Screen,1
+Progress Note,MH- EPDS,1
+Progress Note,MH- Home Visit - Postnatal,1
+Progress Note,MH- Pregnancy Home Risk ,1
+FP History ,App St Case Hist for Audiology,1
+FP Female Flow,Phone Encounter,1
+FP Eval,FP Annual / PP Visit- LCHD,1
+FP Annual PP,FP Evaluation Visit- LCHD,1
+Encounter Note,LCHD 9-10yr BF Well Child,1
+Family Planning,FP Female Flow 2814F,1
+Family Planning,MO - Pregnancy Test Visit,1
+BH Note,DEV MCPH Note Template Style,1
+Family Planning,Request for Pregnancy Test,1
+H&P Note,Adult Established Patient,1
+H&P Note,Acne Note 1,1
+H&P Note,Acne Note,1
+H&P Note,Abdominal Pain New,1
+H&P Note,AH Test,1
+H&P Note,64 Testing Sheet,1
+H&P Note,1Hand Surgery Initial,1
+H&P Note,1- Intake Exam v14.2,1
+Progress Note,Injection Visit,1
+Progress Note,JCH PA Progress Note,1
+H&P Note,'23 SHC New Pt Up Extrm w/ Exm,1
+Progress Note,Jessica Suboxone f/u- Sanford,1
+Progress Note,KINDERGARTEN ASSESSMENT,1
+Progress Note,Komen CBE,1
+Progress Note,LAB ORDER,1
+General Note,WASH - Triage Note,1
+General Note,Declination of Test/Procedure,1
+Progress Note,Lacerations,1
+Progress Note,Lead Pregnancy Risk Screening,1
+Encounter Note,LCHD 4yr BF Well Child,1
+Progress Note,Mat-HR Social Work Assessment,1
+Progress Note,Mat. Psychosocial Risk Screen,1
+E M Visit Established Patient,'23 NDR Spinal Disc,1
+Progress Note,Oral Pain/Lesion,1
+Child Health,CH-BF Well Child 15 Months,1
+Progress Note,PC - CoCM Case Review,1
+Child Health,CH-BF Well Child 1 Month,1
+Progress Note,PHQ-9,1
+CH Initial Hx,CH Initial Hx ,1
+Progress Note,PPD,1
+CD Note,Communicable Disease Note,1
+Behavior Health,App St Case Hist Ped,1
+Progress Note,Peggy C Easter,1
+Behavior Health,App St Case His for Preschool,1
+BH Office Visit ,Child-BH Intake,1
+BH Office Visit,zzBH - Behavioral Health Visit,1
+BH Office Visit,Phone Encounter2,1
+BH Office Visit,BH Treatment Plan,1
+BH Office Visit,BH - LCSW Return,1
+Progress Note,Positive Pregnancy Test Note,1
+BH Office Visit,BH,1
+Progress Note,PrEP Provider Visit,1
+Progress Note,Obesity,1
+Progress Note,OT SOAP Note,1
+Progress Note,OB Lab Results,1
+Consultation Report,BHC Follow Up,1
+Discharge,PT Discharge,1
+Progress Note,Maternal PP Depression Screen,1
+Dictation Note,Phone Encounter,1
+Progress Note,Menopausal Symptoms,1
+Progress Note,Moderate High Risk Referral,1
+Consultation Report,STD Encounter - Form 2808,1
+Progress Note,NCWW Screening DHHS 4049AB,1
+Progress Note,New Maternity Update,1
+Progress Note,BF - Well Child 9-10 years,1
+Child Health,CH-BF Well Child 9 Months-LCHD,1
+Consultation Report,ASA Patient Progress Note,1
+Consultation Report,ABI,1
+Combination Services,TB Screening Form ,1
+Combination Services,TB Monthly Flow Sheet ,1
+Combination Services,Lice Check,1
+Clerical Note,Telephone Triage,1
+Clerical Note,Phone Encounter,1
+Clerical Note,Clerical Note,1
+Progress Note,Newborn Weight Check - WCHD,1
